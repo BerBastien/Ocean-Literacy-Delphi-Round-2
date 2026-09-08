@@ -1,0 +1,1775 @@
+Expert_ID,theme,from,to
+Expert_001,Tema 1,Acoplamiento clima-océano,Amenazas humanas
+Expert_001,Tema 1,Acoplamiento clima-océano,Contaminación
+Expert_001,Tema 1,Acoplamiento clima-océano,Impactos del cambio climático
+Expert_001,Tema 1,Acoplamiento clima-océano,Resiliencia
+Expert_001,Tema 1,Amenazas humanas,Contaminación
+Expert_001,Tema 1,Amenazas humanas,Impactos del cambio climático
+Expert_001,Tema 1,Amenazas humanas,Resiliencia
+Expert_001,Tema 1,Contaminación,Impactos del cambio climático
+Expert_001,Tema 1,Contaminación,Resiliencia
+Expert_001,Tema 1,Impactos del cambio climático,Resiliencia
+Expert_001,Tema 2,Biodiversidad,Conservación
+Expert_001,Tema 2,Biodiversidad,Especies clave
+Expert_001,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_001,Tema 2,Biodiversidad,Restauración ecológica
+Expert_001,Tema 2,Conservación,Especies clave
+Expert_001,Tema 2,Conservación,Regulación de la biodiversidad global
+Expert_001,Tema 2,Conservación,Restauración ecológica
+Expert_001,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_001,Tema 2,Especies clave,Restauración ecológica
+Expert_001,Tema 2,Regulación de la biodiversidad global,Restauración ecológica
+Expert_001,Tema 3,Ecología,Ecosistemas
+Expert_001,Tema 3,Ecología,Productividad
+Expert_001,Tema 3,Ecología,Servicios ecosistemicos
+Expert_001,Tema 3,Ecología,Sustentabilidad
+Expert_001,Tema 3,Ecosistemas,Productividad
+Expert_001,Tema 3,Ecosistemas,Servicios ecosistemicos
+Expert_001,Tema 3,Ecosistemas,Sustentabilidad
+Expert_001,Tema 3,Productividad,Servicios ecosistemicos
+Expert_001,Tema 3,Productividad,Sustentabilidad
+Expert_001,Tema 3,Servicios ecosistemicos,Sustentabilidad
+Expert_001,Tema 4,Ciclos biogeoquímicos,Geografia
+Expert_001,Tema 4,Ciclos biogeoquímicos,Oceanografía física
+Expert_001,Tema 4,Ciclos biogeoquímicos,Pesquerias
+Expert_001,Tema 4,Geografia,Oceanografía física
+Expert_001,Tema 4,Geografia,Pesquerias
+Expert_001,Tema 4,Oceanografía física,Pesquerias
+Expert_001,Tema 5,Aspectos socio-económicos,Bienestar humano
+Expert_001,Tema 5,Aspectos socio-económicos,Conciencia ambiental
+Expert_001,Tema 5,Aspectos socio-económicos,Evolución
+Expert_001,Tema 5,Aspectos socio-económicos,Valor cultural
+Expert_001,Tema 5,Bienestar humano,Conciencia ambiental
+Expert_001,Tema 5,Bienestar humano,Evolución
+Expert_001,Tema 5,Bienestar humano,Valor cultural
+Expert_001,Tema 5,Conciencia ambiental,Evolución
+Expert_001,Tema 5,Conciencia ambiental,Valor cultural
+Expert_001,Tema 5,Evolución,Valor cultural
+Expert_002,Tema 1,Biodiversidad,Ciclos biogeoquímicos
+Expert_002,Tema 1,Biodiversidad,Ecología
+Expert_002,Tema 1,Biodiversidad,Ecosistemas
+Expert_002,Tema 1,Biodiversidad,Especies clave
+Expert_002,Tema 1,Biodiversidad,Evolución
+Expert_002,Tema 1,Biodiversidad,Oceanografía física
+Expert_002,Tema 1,Biodiversidad,Regulación de la biodiversidad global
+Expert_002,Tema 1,Ciclos biogeoquímicos,Ecología
+Expert_002,Tema 1,Ciclos biogeoquímicos,Ecosistemas
+Expert_002,Tema 1,Ciclos biogeoquímicos,Especies clave
+Expert_002,Tema 1,Ciclos biogeoquímicos,Evolución
+Expert_002,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_002,Tema 1,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_002,Tema 1,Ecología,Ecosistemas
+Expert_002,Tema 1,Ecología,Especies clave
+Expert_002,Tema 1,Ecología,Evolución
+Expert_002,Tema 1,Ecología,Oceanografía física
+Expert_002,Tema 1,Ecología,Regulación de la biodiversidad global
+Expert_002,Tema 1,Ecosistemas,Especies clave
+Expert_002,Tema 1,Ecosistemas,Evolución
+Expert_002,Tema 1,Ecosistemas,Oceanografía física
+Expert_002,Tema 1,Ecosistemas,Regulación de la biodiversidad global
+Expert_002,Tema 1,Especies clave,Evolución
+Expert_002,Tema 1,Especies clave,Oceanografía física
+Expert_002,Tema 1,Especies clave,Regulación de la biodiversidad global
+Expert_002,Tema 1,Evolución,Oceanografía física
+Expert_002,Tema 1,Evolución,Regulación de la biodiversidad global
+Expert_002,Tema 1,Oceanografía física,Regulación de la biodiversidad global
+Expert_002,Tema 2,Conciencia ambiental,Conservación
+Expert_002,Tema 2,Conciencia ambiental,Contaminación
+Expert_002,Tema 2,Conciencia ambiental,Geografia
+Expert_002,Tema 2,Conciencia ambiental,Impactos del cambio climático
+Expert_002,Tema 2,Conciencia ambiental,Resiliencia
+Expert_002,Tema 2,Conciencia ambiental,Restauración ecológica
+Expert_002,Tema 2,Conciencia ambiental,Sustentabilidad
+Expert_002,Tema 2,Conservación,Contaminación
+Expert_002,Tema 2,Conservación,Geografia
+Expert_002,Tema 2,Conservación,Impactos del cambio climático
+Expert_002,Tema 2,Conservación,Resiliencia
+Expert_002,Tema 2,Conservación,Restauración ecológica
+Expert_002,Tema 2,Conservación,Sustentabilidad
+Expert_002,Tema 2,Contaminación,Geografia
+Expert_002,Tema 2,Contaminación,Impactos del cambio climático
+Expert_002,Tema 2,Contaminación,Resiliencia
+Expert_002,Tema 2,Contaminación,Restauración ecológica
+Expert_002,Tema 2,Contaminación,Sustentabilidad
+Expert_002,Tema 2,Geografia,Impactos del cambio climático
+Expert_002,Tema 2,Geografia,Resiliencia
+Expert_002,Tema 2,Geografia,Restauración ecológica
+Expert_002,Tema 2,Geografia,Sustentabilidad
+Expert_002,Tema 2,Impactos del cambio climático,Resiliencia
+Expert_002,Tema 2,Impactos del cambio climático,Restauración ecológica
+Expert_002,Tema 2,Impactos del cambio climático,Sustentabilidad
+Expert_002,Tema 2,Resiliencia,Restauración ecológica
+Expert_002,Tema 2,Resiliencia,Sustentabilidad
+Expert_002,Tema 2,Restauración ecológica,Sustentabilidad
+Expert_002,Tema 3,Aspectos socio-económicos,Bienestar humano
+Expert_002,Tema 3,Aspectos socio-económicos,Pesquerias
+Expert_002,Tema 3,Aspectos socio-económicos,Productividad
+Expert_002,Tema 3,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_002,Tema 3,Aspectos socio-económicos,Valor cultural
+Expert_002,Tema 3,Bienestar humano,Pesquerias
+Expert_002,Tema 3,Bienestar humano,Productividad
+Expert_002,Tema 3,Bienestar humano,Servicios ecosistemicos
+Expert_002,Tema 3,Bienestar humano,Valor cultural
+Expert_002,Tema 3,Pesquerias,Productividad
+Expert_002,Tema 3,Pesquerias,Servicios ecosistemicos
+Expert_002,Tema 3,Pesquerias,Valor cultural
+Expert_002,Tema 3,Productividad,Servicios ecosistemicos
+Expert_002,Tema 3,Productividad,Valor cultural
+Expert_002,Tema 3,Servicios ecosistemicos,Valor cultural
+Expert_002,x,NA,NA
+Expert_003,No,NA,NA
+Expert_003,No,NA,NA
+Expert_003,No,NA,NA
+Expert_003,Tema 1,Acoplamiento clima-océano,Amenazas humanas
+Expert_003,Tema 1,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_003,Tema 1,Acoplamiento clima-océano,Contaminación
+Expert_003,Tema 1,Acoplamiento clima-océano,Especies clave
+Expert_003,Tema 1,Acoplamiento clima-océano,Oceanografía física
+Expert_003,Tema 1,Amenazas humanas,Ciclos biogeoquímicos
+Expert_003,Tema 1,Amenazas humanas,Contaminación
+Expert_003,Tema 1,Amenazas humanas,Especies clave
+Expert_003,Tema 1,Amenazas humanas,Oceanografía física
+Expert_003,Tema 1,Ciclos biogeoquímicos,Contaminación
+Expert_003,Tema 1,Ciclos biogeoquímicos,Especies clave
+Expert_003,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_003,Tema 1,Contaminación,Especies clave
+Expert_003,Tema 1,Contaminación,Oceanografía física
+Expert_003,Tema 1,Especies clave,Oceanografía física
+Expert_003,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_003,Tema 2,Aspectos socio-económicos,Geografia
+Expert_003,Tema 2,Aspectos socio-económicos,Impactos del cambio climático
+Expert_003,Tema 2,Bienestar humano,Geografia
+Expert_003,Tema 2,Bienestar humano,Impactos del cambio climático
+Expert_003,Tema 2,Geografia,Impactos del cambio climático
+Expert_003,Tema 3,Biodiversidad,Conciencia ambiental
+Expert_003,Tema 3,Biodiversidad,Conservación
+Expert_003,Tema 3,Biodiversidad,Ecología
+Expert_003,Tema 3,Biodiversidad,Ecosistemas
+Expert_003,Tema 3,Biodiversidad,Evolución
+Expert_003,Tema 3,Biodiversidad,Pesquerias
+Expert_003,Tema 3,Biodiversidad,Productividad
+Expert_003,Tema 3,Biodiversidad,Regulación de la biodiversidad global
+Expert_003,Tema 3,Biodiversidad,Resiliencia
+Expert_003,Tema 3,Conciencia ambiental,Conservación
+Expert_003,Tema 3,Conciencia ambiental,Ecología
+Expert_003,Tema 3,Conciencia ambiental,Ecosistemas
+Expert_003,Tema 3,Conciencia ambiental,Evolución
+Expert_003,Tema 3,Conciencia ambiental,Pesquerias
+Expert_003,Tema 3,Conciencia ambiental,Productividad
+Expert_003,Tema 3,Conciencia ambiental,Regulación de la biodiversidad global
+Expert_003,Tema 3,Conciencia ambiental,Resiliencia
+Expert_003,Tema 3,Conservación,Ecología
+Expert_003,Tema 3,Conservación,Ecosistemas
+Expert_003,Tema 3,Conservación,Evolución
+Expert_003,Tema 3,Conservación,Pesquerias
+Expert_003,Tema 3,Conservación,Productividad
+Expert_003,Tema 3,Conservación,Regulación de la biodiversidad global
+Expert_003,Tema 3,Conservación,Resiliencia
+Expert_003,Tema 3,Ecología,Ecosistemas
+Expert_003,Tema 3,Ecología,Evolución
+Expert_003,Tema 3,Ecología,Pesquerias
+Expert_003,Tema 3,Ecología,Productividad
+Expert_003,Tema 3,Ecología,Regulación de la biodiversidad global
+Expert_003,Tema 3,Ecología,Resiliencia
+Expert_003,Tema 3,Ecosistemas,Evolución
+Expert_003,Tema 3,Ecosistemas,Pesquerias
+Expert_003,Tema 3,Ecosistemas,Productividad
+Expert_003,Tema 3,Ecosistemas,Regulación de la biodiversidad global
+Expert_003,Tema 3,Ecosistemas,Resiliencia
+Expert_003,Tema 3,Evolución,Pesquerias
+Expert_003,Tema 3,Evolución,Productividad
+Expert_003,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_003,Tema 3,Evolución,Resiliencia
+Expert_003,Tema 3,Pesquerias,Productividad
+Expert_003,Tema 3,Pesquerias,Regulación de la biodiversidad global
+Expert_003,Tema 3,Pesquerias,Resiliencia
+Expert_003,Tema 3,Productividad,Regulación de la biodiversidad global
+Expert_003,Tema 3,Productividad,Resiliencia
+Expert_003,Tema 3,Regulación de la biodiversidad global,Resiliencia
+Expert_003,Tema 4,Restauración ecológica,Servicios ecosistemicos
+Expert_003,Tema 4,Restauración ecológica,Sustentabilidad
+Expert_003,Tema 4,Restauración ecológica,Valor cultural
+Expert_003,Tema 4,Servicios ecosistemicos,Sustentabilidad
+Expert_003,Tema 4,Servicios ecosistemicos,Valor cultural
+Expert_003,Tema 4,Sustentabilidad,Valor cultural
+Expert_004,Tema 1,Amenazas humanas,Contaminación
+Expert_004,Tema 1,Amenazas humanas,Impactos del cambio climático
+Expert_004,Tema 1,Amenazas humanas,Resiliencia
+Expert_004,Tema 1,Contaminación,Impactos del cambio climático
+Expert_004,Tema 1,Contaminación,Resiliencia
+Expert_004,Tema 1,Impactos del cambio climático,Resiliencia
+Expert_004,Tema 2,Conciencia ambiental,Conservación
+Expert_004,Tema 2,Conciencia ambiental,Ecología
+Expert_004,Tema 2,Conciencia ambiental,Ecosistemas
+Expert_004,Tema 2,Conciencia ambiental,Restauración ecológica
+Expert_004,Tema 2,Conservación,Ecología
+Expert_004,Tema 2,Conservación,Ecosistemas
+Expert_004,Tema 2,Conservación,Restauración ecológica
+Expert_004,Tema 2,Ecología,Ecosistemas
+Expert_004,Tema 2,Ecología,Restauración ecológica
+Expert_004,Tema 2,Ecosistemas,Restauración ecológica
+Expert_004,Tema 3,Biodiversidad,Ciclos biogeoquímicos
+Expert_004,Tema 3,Biodiversidad,Especies clave
+Expert_004,Tema 3,Biodiversidad,Evolución
+Expert_004,Tema 3,Biodiversidad,Geografia
+Expert_004,Tema 3,Biodiversidad,Oceanografía física
+Expert_004,Tema 3,Ciclos biogeoquímicos,Especies clave
+Expert_004,Tema 3,Ciclos biogeoquímicos,Evolución
+Expert_004,Tema 3,Ciclos biogeoquímicos,Geografia
+Expert_004,Tema 3,Ciclos biogeoquímicos,Oceanografía física
+Expert_004,Tema 3,Especies clave,Evolución
+Expert_004,Tema 3,Especies clave,Geografia
+Expert_004,Tema 3,Especies clave,Oceanografía física
+Expert_004,Tema 3,Evolución,Geografia
+Expert_004,Tema 3,Evolución,Oceanografía física
+Expert_004,Tema 3,Geografia,Oceanografía física
+Expert_004,Tema 4,Aspectos socio-económicos,Bienestar humano
+Expert_004,Tema 4,Aspectos socio-económicos,Regulación de la biodiversidad global
+Expert_004,Tema 4,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_004,Tema 4,Aspectos socio-económicos,Valor cultural
+Expert_004,Tema 4,Bienestar humano,Regulación de la biodiversidad global
+Expert_004,Tema 4,Bienestar humano,Servicios ecosistemicos
+Expert_004,Tema 4,Bienestar humano,Valor cultural
+Expert_004,Tema 4,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_004,Tema 4,Regulación de la biodiversidad global,Valor cultural
+Expert_004,Tema 4,Servicios ecosistemicos,Valor cultural
+Expert_004,Tema 5,Acoplamiento clima-océano,Pesquerias
+Expert_004,Tema 5,Acoplamiento clima-océano,Productividad
+Expert_004,Tema 5,Acoplamiento clima-océano,Sustentabilidad
+Expert_004,Tema 5,Pesquerias,Productividad
+Expert_004,Tema 5,Pesquerias,Sustentabilidad
+Expert_004,Tema 5,Productividad,Sustentabilidad
+Expert_005,Tema 1,Acoplamiento clima-océano,Amenazas humanas
+Expert_005,Tema 1,Acoplamiento clima-océano,Aspectos socio-económicos
+Expert_005,Tema 1,Acoplamiento clima-océano,Bienestar humano
+Expert_005,Tema 1,Acoplamiento clima-océano,Biodiversidad
+Expert_005,Tema 1,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_005,Tema 1,Acoplamiento clima-océano,Ecología
+Expert_005,Tema 1,Acoplamiento clima-océano,Ecosistemas
+Expert_005,Tema 1,Acoplamiento clima-océano,Especies clave
+Expert_005,Tema 1,Acoplamiento clima-océano,Evolución
+Expert_005,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_005,Tema 1,Amenazas humanas,Bienestar humano
+Expert_005,Tema 1,Amenazas humanas,Biodiversidad
+Expert_005,Tema 1,Amenazas humanas,Ciclos biogeoquímicos
+Expert_005,Tema 1,Amenazas humanas,Ecología
+Expert_005,Tema 1,Amenazas humanas,Ecosistemas
+Expert_005,Tema 1,Amenazas humanas,Especies clave
+Expert_005,Tema 1,Amenazas humanas,Evolución
+Expert_005,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_005,Tema 1,Aspectos socio-económicos,Biodiversidad
+Expert_005,Tema 1,Aspectos socio-económicos,Ciclos biogeoquímicos
+Expert_005,Tema 1,Aspectos socio-económicos,Ecología
+Expert_005,Tema 1,Aspectos socio-económicos,Ecosistemas
+Expert_005,Tema 1,Aspectos socio-económicos,Especies clave
+Expert_005,Tema 1,Aspectos socio-económicos,Evolución
+Expert_005,Tema 1,Bienestar humano,Biodiversidad
+Expert_005,Tema 1,Bienestar humano,Ciclos biogeoquímicos
+Expert_005,Tema 1,Bienestar humano,Ecología
+Expert_005,Tema 1,Bienestar humano,Ecosistemas
+Expert_005,Tema 1,Bienestar humano,Especies clave
+Expert_005,Tema 1,Bienestar humano,Evolución
+Expert_005,Tema 1,Biodiversidad,Ciclos biogeoquímicos
+Expert_005,Tema 1,Biodiversidad,Ecología
+Expert_005,Tema 1,Biodiversidad,Ecosistemas
+Expert_005,Tema 1,Biodiversidad,Especies clave
+Expert_005,Tema 1,Biodiversidad,Evolución
+Expert_005,Tema 1,Ciclos biogeoquímicos,Ecología
+Expert_005,Tema 1,Ciclos biogeoquímicos,Ecosistemas
+Expert_005,Tema 1,Ciclos biogeoquímicos,Especies clave
+Expert_005,Tema 1,Ciclos biogeoquímicos,Evolución
+Expert_005,Tema 1,Ecología,Ecosistemas
+Expert_005,Tema 1,Ecología,Especies clave
+Expert_005,Tema 1,Ecología,Evolución
+Expert_005,Tema 1,Ecosistemas,Especies clave
+Expert_005,Tema 1,Ecosistemas,Evolución
+Expert_005,Tema 1,Especies clave,Evolución
+Expert_005,Tema 2,Conciencia ambiental,Conservación
+Expert_005,Tema 2,Conciencia ambiental,Contaminación
+Expert_005,Tema 2,Conciencia ambiental,Geografia
+Expert_005,Tema 2,Conservación,Contaminación
+Expert_005,Tema 2,Conservación,Geografia
+Expert_005,Tema 2,Contaminación,Geografia
+Expert_005,Tema 3,Impactos del cambio climático,Oceanografía física
+Expert_005,Tema 4,Pesquerias,Productividad
+Expert_005,Tema 4,Pesquerias,Regulación de la biodiversidad global
+Expert_005,Tema 4,Pesquerias,Resiliencia
+Expert_005,Tema 4,Productividad,Regulación de la biodiversidad global
+Expert_005,Tema 4,Productividad,Resiliencia
+Expert_005,Tema 4,Regulación de la biodiversidad global,Resiliencia
+Expert_005,Tema 5,Restauración ecológica,Servicios ecosistemicos
+Expert_005,Tema 5,Restauración ecológica,Sustentabilidad
+Expert_005,Tema 5,Restauración ecológica,Valor cultural
+Expert_005,Tema 5,Servicios ecosistemicos,Sustentabilidad
+Expert_005,Tema 5,Servicios ecosistemicos,Valor cultural
+Expert_005,Tema 5,Sustentabilidad,Valor cultural
+Expert_006,Tema 1,Amenazas humanas,Biodiversidad
+Expert_006,Tema 1,Amenazas humanas,Contaminación
+Expert_006,Tema 1,Amenazas humanas,Ecología
+Expert_006,Tema 1,Amenazas humanas,Especies clave
+Expert_006,Tema 1,Biodiversidad,Contaminación
+Expert_006,Tema 1,Biodiversidad,Ecología
+Expert_006,Tema 1,Biodiversidad,Especies clave
+Expert_006,Tema 1,Contaminación,Ecología
+Expert_006,Tema 1,Contaminación,Especies clave
+Expert_006,Tema 1,Ecología,Especies clave
+Expert_006,Tema 2,Acoplamiento clima-océano,Ecosistemas
+Expert_006,Tema 2,Acoplamiento clima-océano,Impactos del cambio climático
+Expert_006,Tema 2,Acoplamiento clima-océano,Regulación de la biodiversidad global
+Expert_006,Tema 2,Acoplamiento clima-océano,Resiliencia
+Expert_006,Tema 2,Ecosistemas,Impactos del cambio climático
+Expert_006,Tema 2,Ecosistemas,Regulación de la biodiversidad global
+Expert_006,Tema 2,Ecosistemas,Resiliencia
+Expert_006,Tema 2,Impactos del cambio climático,Regulación de la biodiversidad global
+Expert_006,Tema 2,Impactos del cambio climático,Resiliencia
+Expert_006,Tema 2,Regulación de la biodiversidad global,Resiliencia
+Expert_006,Tema 3,Aspectos socio-económicos,Bienestar humano
+Expert_006,Tema 3,Aspectos socio-económicos,Conciencia ambiental
+Expert_006,Tema 3,Aspectos socio-económicos,Conservación
+Expert_006,Tema 3,Aspectos socio-económicos,Geografia
+Expert_006,Tema 3,Aspectos socio-económicos,Pesquerias
+Expert_006,Tema 3,Aspectos socio-económicos,Productividad
+Expert_006,Tema 3,Aspectos socio-económicos,Restauración ecológica
+Expert_006,Tema 3,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_006,Tema 3,Aspectos socio-económicos,Sustentabilidad
+Expert_006,Tema 3,Aspectos socio-económicos,Valor cultural
+Expert_006,Tema 3,Bienestar humano,Conciencia ambiental
+Expert_006,Tema 3,Bienestar humano,Conservación
+Expert_006,Tema 3,Bienestar humano,Geografia
+Expert_006,Tema 3,Bienestar humano,Pesquerias
+Expert_006,Tema 3,Bienestar humano,Productividad
+Expert_006,Tema 3,Bienestar humano,Restauración ecológica
+Expert_006,Tema 3,Bienestar humano,Servicios ecosistemicos
+Expert_006,Tema 3,Bienestar humano,Sustentabilidad
+Expert_006,Tema 3,Bienestar humano,Valor cultural
+Expert_006,Tema 3,Conciencia ambiental,Conservación
+Expert_006,Tema 3,Conciencia ambiental,Geografia
+Expert_006,Tema 3,Conciencia ambiental,Pesquerias
+Expert_006,Tema 3,Conciencia ambiental,Productividad
+Expert_006,Tema 3,Conciencia ambiental,Restauración ecológica
+Expert_006,Tema 3,Conciencia ambiental,Servicios ecosistemicos
+Expert_006,Tema 3,Conciencia ambiental,Sustentabilidad
+Expert_006,Tema 3,Conciencia ambiental,Valor cultural
+Expert_006,Tema 3,Conservación,Geografia
+Expert_006,Tema 3,Conservación,Pesquerias
+Expert_006,Tema 3,Conservación,Productividad
+Expert_006,Tema 3,Conservación,Restauración ecológica
+Expert_006,Tema 3,Conservación,Servicios ecosistemicos
+Expert_006,Tema 3,Conservación,Sustentabilidad
+Expert_006,Tema 3,Conservación,Valor cultural
+Expert_006,Tema 3,Geografia,Pesquerias
+Expert_006,Tema 3,Geografia,Productividad
+Expert_006,Tema 3,Geografia,Restauración ecológica
+Expert_006,Tema 3,Geografia,Servicios ecosistemicos
+Expert_006,Tema 3,Geografia,Sustentabilidad
+Expert_006,Tema 3,Geografia,Valor cultural
+Expert_006,Tema 3,Pesquerias,Productividad
+Expert_006,Tema 3,Pesquerias,Restauración ecológica
+Expert_006,Tema 3,Pesquerias,Servicios ecosistemicos
+Expert_006,Tema 3,Pesquerias,Sustentabilidad
+Expert_006,Tema 3,Pesquerias,Valor cultural
+Expert_006,Tema 3,Productividad,Restauración ecológica
+Expert_006,Tema 3,Productividad,Servicios ecosistemicos
+Expert_006,Tema 3,Productividad,Sustentabilidad
+Expert_006,Tema 3,Productividad,Valor cultural
+Expert_006,Tema 3,Restauración ecológica,Servicios ecosistemicos
+Expert_006,Tema 3,Restauración ecológica,Sustentabilidad
+Expert_006,Tema 3,Restauración ecológica,Valor cultural
+Expert_006,Tema 3,Servicios ecosistemicos,Sustentabilidad
+Expert_006,Tema 3,Servicios ecosistemicos,Valor cultural
+Expert_006,Tema 3,Sustentabilidad,Valor cultural
+Expert_006,Tema 4,Ciclos biogeoquímicos,Oceanografía física
+Expert_007,Tema 1,Acoplamiento clima-océano,Oceanografía física
+Expert_007,Tema 2,Amenazas humanas,Aspectos socio-económicos
+Expert_007,Tema 2,Amenazas humanas,Bienestar humano
+Expert_007,Tema 2,Amenazas humanas,Conciencia ambiental
+Expert_007,Tema 2,Amenazas humanas,Conservación
+Expert_007,Tema 2,Amenazas humanas,Contaminación
+Expert_007,Tema 2,Amenazas humanas,Impactos del cambio climático
+Expert_007,Tema 2,Amenazas humanas,Pesquerias
+Expert_007,Tema 2,Amenazas humanas,Productividad
+Expert_007,Tema 2,Amenazas humanas,Restauración ecológica
+Expert_007,Tema 2,Amenazas humanas,Servicios ecosistemicos
+Expert_007,Tema 2,Amenazas humanas,Sustentabilidad
+Expert_007,Tema 2,Amenazas humanas,Valor cultural
+Expert_007,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_007,Tema 2,Aspectos socio-económicos,Conciencia ambiental
+Expert_007,Tema 2,Aspectos socio-económicos,Conservación
+Expert_007,Tema 2,Aspectos socio-económicos,Contaminación
+Expert_007,Tema 2,Aspectos socio-económicos,Impactos del cambio climático
+Expert_007,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_007,Tema 2,Aspectos socio-económicos,Productividad
+Expert_007,Tema 2,Aspectos socio-económicos,Restauración ecológica
+Expert_007,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_007,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_007,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_007,Tema 2,Bienestar humano,Conciencia ambiental
+Expert_007,Tema 2,Bienestar humano,Conservación
+Expert_007,Tema 2,Bienestar humano,Contaminación
+Expert_007,Tema 2,Bienestar humano,Impactos del cambio climático
+Expert_007,Tema 2,Bienestar humano,Pesquerias
+Expert_007,Tema 2,Bienestar humano,Productividad
+Expert_007,Tema 2,Bienestar humano,Restauración ecológica
+Expert_007,Tema 2,Bienestar humano,Servicios ecosistemicos
+Expert_007,Tema 2,Bienestar humano,Sustentabilidad
+Expert_007,Tema 2,Bienestar humano,Valor cultural
+Expert_007,Tema 2,Conciencia ambiental,Conservación
+Expert_007,Tema 2,Conciencia ambiental,Contaminación
+Expert_007,Tema 2,Conciencia ambiental,Impactos del cambio climático
+Expert_007,Tema 2,Conciencia ambiental,Pesquerias
+Expert_007,Tema 2,Conciencia ambiental,Productividad
+Expert_007,Tema 2,Conciencia ambiental,Restauración ecológica
+Expert_007,Tema 2,Conciencia ambiental,Servicios ecosistemicos
+Expert_007,Tema 2,Conciencia ambiental,Sustentabilidad
+Expert_007,Tema 2,Conciencia ambiental,Valor cultural
+Expert_007,Tema 2,Conservación,Contaminación
+Expert_007,Tema 2,Conservación,Impactos del cambio climático
+Expert_007,Tema 2,Conservación,Pesquerias
+Expert_007,Tema 2,Conservación,Productividad
+Expert_007,Tema 2,Conservación,Restauración ecológica
+Expert_007,Tema 2,Conservación,Servicios ecosistemicos
+Expert_007,Tema 2,Conservación,Sustentabilidad
+Expert_007,Tema 2,Conservación,Valor cultural
+Expert_007,Tema 2,Contaminación,Impactos del cambio climático
+Expert_007,Tema 2,Contaminación,Pesquerias
+Expert_007,Tema 2,Contaminación,Productividad
+Expert_007,Tema 2,Contaminación,Restauración ecológica
+Expert_007,Tema 2,Contaminación,Servicios ecosistemicos
+Expert_007,Tema 2,Contaminación,Sustentabilidad
+Expert_007,Tema 2,Contaminación,Valor cultural
+Expert_007,Tema 2,Impactos del cambio climático,Pesquerias
+Expert_007,Tema 2,Impactos del cambio climático,Productividad
+Expert_007,Tema 2,Impactos del cambio climático,Restauración ecológica
+Expert_007,Tema 2,Impactos del cambio climático,Servicios ecosistemicos
+Expert_007,Tema 2,Impactos del cambio climático,Sustentabilidad
+Expert_007,Tema 2,Impactos del cambio climático,Valor cultural
+Expert_007,Tema 2,Pesquerias,Productividad
+Expert_007,Tema 2,Pesquerias,Restauración ecológica
+Expert_007,Tema 2,Pesquerias,Servicios ecosistemicos
+Expert_007,Tema 2,Pesquerias,Sustentabilidad
+Expert_007,Tema 2,Pesquerias,Valor cultural
+Expert_007,Tema 2,Productividad,Restauración ecológica
+Expert_007,Tema 2,Productividad,Servicios ecosistemicos
+Expert_007,Tema 2,Productividad,Sustentabilidad
+Expert_007,Tema 2,Productividad,Valor cultural
+Expert_007,Tema 2,Restauración ecológica,Servicios ecosistemicos
+Expert_007,Tema 2,Restauración ecológica,Sustentabilidad
+Expert_007,Tema 2,Restauración ecológica,Valor cultural
+Expert_007,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_007,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_007,Tema 2,Sustentabilidad,Valor cultural
+Expert_007,Tema 3,Biodiversidad,Ciclos biogeoquímicos
+Expert_007,Tema 3,Biodiversidad,Ecología
+Expert_007,Tema 3,Biodiversidad,Ecosistemas
+Expert_007,Tema 3,Biodiversidad,Especies clave
+Expert_007,Tema 3,Biodiversidad,Evolución
+Expert_007,Tema 3,Biodiversidad,Geografia
+Expert_007,Tema 3,Biodiversidad,Regulación de la biodiversidad global
+Expert_007,Tema 3,Biodiversidad,Resiliencia
+Expert_007,Tema 3,Ciclos biogeoquímicos,Ecología
+Expert_007,Tema 3,Ciclos biogeoquímicos,Ecosistemas
+Expert_007,Tema 3,Ciclos biogeoquímicos,Especies clave
+Expert_007,Tema 3,Ciclos biogeoquímicos,Evolución
+Expert_007,Tema 3,Ciclos biogeoquímicos,Geografia
+Expert_007,Tema 3,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_007,Tema 3,Ciclos biogeoquímicos,Resiliencia
+Expert_007,Tema 3,Ecología,Ecosistemas
+Expert_007,Tema 3,Ecología,Especies clave
+Expert_007,Tema 3,Ecología,Evolución
+Expert_007,Tema 3,Ecología,Geografia
+Expert_007,Tema 3,Ecología,Regulación de la biodiversidad global
+Expert_007,Tema 3,Ecología,Resiliencia
+Expert_007,Tema 3,Ecosistemas,Especies clave
+Expert_007,Tema 3,Ecosistemas,Evolución
+Expert_007,Tema 3,Ecosistemas,Geografia
+Expert_007,Tema 3,Ecosistemas,Regulación de la biodiversidad global
+Expert_007,Tema 3,Ecosistemas,Resiliencia
+Expert_007,Tema 3,Especies clave,Evolución
+Expert_007,Tema 3,Especies clave,Geografia
+Expert_007,Tema 3,Especies clave,Regulación de la biodiversidad global
+Expert_007,Tema 3,Especies clave,Resiliencia
+Expert_007,Tema 3,Evolución,Geografia
+Expert_007,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_007,Tema 3,Evolución,Resiliencia
+Expert_007,Tema 3,Geografia,Regulación de la biodiversidad global
+Expert_007,Tema 3,Geografia,Resiliencia
+Expert_007,Tema 3,Regulación de la biodiversidad global,Resiliencia
+Expert_007,no hay,NA,NA
+Expert_007,no hay,NA,NA
+Expert_007,no hay,NA,NA
+Expert_008,Tema 1,Biodiversidad,Ecología
+Expert_008,Tema 1,Biodiversidad,Ecosistemas
+Expert_008,Tema 1,Biodiversidad,Especies clave
+Expert_008,Tema 1,Biodiversidad,Evolución
+Expert_008,Tema 1,Biodiversidad,Servicios ecosistemicos
+Expert_008,Tema 1,Ecología,Ecosistemas
+Expert_008,Tema 1,Ecología,Especies clave
+Expert_008,Tema 1,Ecología,Evolución
+Expert_008,Tema 1,Ecología,Servicios ecosistemicos
+Expert_008,Tema 1,Ecosistemas,Especies clave
+Expert_008,Tema 1,Ecosistemas,Evolución
+Expert_008,Tema 1,Ecosistemas,Servicios ecosistemicos
+Expert_008,Tema 1,Especies clave,Evolución
+Expert_008,Tema 1,Especies clave,Servicios ecosistemicos
+Expert_008,Tema 1,Evolución,Servicios ecosistemicos
+Expert_008,Tema 2,Acoplamiento clima-océano,Aspectos socio-económicos
+Expert_008,Tema 2,Acoplamiento clima-océano,Bienestar humano
+Expert_008,Tema 2,Acoplamiento clima-océano,Pesquerias
+Expert_008,Tema 2,Acoplamiento clima-océano,Productividad
+Expert_008,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_008,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_008,Tema 2,Aspectos socio-económicos,Productividad
+Expert_008,Tema 2,Bienestar humano,Pesquerias
+Expert_008,Tema 2,Bienestar humano,Productividad
+Expert_008,Tema 2,Pesquerias,Productividad
+Expert_008,Tema 3,Ciclos biogeoquímicos,Geografia
+Expert_008,Tema 3,Ciclos biogeoquímicos,Oceanografía física
+Expert_008,Tema 3,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_008,Tema 3,Geografia,Oceanografía física
+Expert_008,Tema 3,Geografia,Regulación de la biodiversidad global
+Expert_008,Tema 3,Oceanografía física,Regulación de la biodiversidad global
+Expert_008,Tema 4,Amenazas humanas,Conciencia ambiental
+Expert_008,Tema 4,Amenazas humanas,Contaminación
+Expert_008,Tema 4,Amenazas humanas,Impactos del cambio climático
+Expert_008,Tema 4,Conciencia ambiental,Contaminación
+Expert_008,Tema 4,Conciencia ambiental,Impactos del cambio climático
+Expert_008,Tema 4,Contaminación,Impactos del cambio climático
+Expert_008,Tema 5,Conservación,Resiliencia
+Expert_008,Tema 5,Conservación,Sustentabilidad
+Expert_008,Tema 5,Conservación,Valor cultural
+Expert_008,Tema 5,Resiliencia,Sustentabilidad
+Expert_008,Tema 5,Resiliencia,Valor cultural
+Expert_008,Tema 5,Sustentabilidad,Valor cultural
+Expert_009,Tema 1,Conciencia ambiental,Evolución
+Expert_009,Tema 1,Conciencia ambiental,Valor cultural
+Expert_009,Tema 1,Evolución,Valor cultural
+Expert_009,Tema 2,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_009,Tema 2,Acoplamiento clima-océano,Geografia
+Expert_009,Tema 2,Acoplamiento clima-océano,Oceanografía física
+Expert_009,Tema 2,Acoplamiento clima-océano,Productividad
+Expert_009,Tema 2,Acoplamiento clima-océano,Regulación de la biodiversidad global
+Expert_009,Tema 2,Ciclos biogeoquímicos,Geografia
+Expert_009,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_009,Tema 2,Ciclos biogeoquímicos,Productividad
+Expert_009,Tema 2,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_009,Tema 2,Geografia,Oceanografía física
+Expert_009,Tema 2,Geografia,Productividad
+Expert_009,Tema 2,Geografia,Regulación de la biodiversidad global
+Expert_009,Tema 2,Oceanografía física,Productividad
+Expert_009,Tema 2,Oceanografía física,Regulación de la biodiversidad global
+Expert_009,Tema 2,Productividad,Regulación de la biodiversidad global
+Expert_009,Tema 3,Biodiversidad,Ecología
+Expert_009,Tema 3,Biodiversidad,Ecosistemas
+Expert_009,Tema 3,Biodiversidad,Especies clave
+Expert_009,Tema 3,Biodiversidad,Servicios ecosistemicos
+Expert_009,Tema 3,Ecología,Ecosistemas
+Expert_009,Tema 3,Ecología,Especies clave
+Expert_009,Tema 3,Ecología,Servicios ecosistemicos
+Expert_009,Tema 3,Ecosistemas,Especies clave
+Expert_009,Tema 3,Ecosistemas,Servicios ecosistemicos
+Expert_009,Tema 3,Especies clave,Servicios ecosistemicos
+Expert_009,Tema 4,Impactos del cambio climático,Pesquerias
+Expert_009,Tema 5,Amenazas humanas,Aspectos socio-económicos
+Expert_009,Tema 5,Amenazas humanas,Bienestar humano
+Expert_009,Tema 5,Amenazas humanas,Resiliencia
+Expert_009,Tema 5,Amenazas humanas,Restauración ecológica
+Expert_009,Tema 5,Amenazas humanas,Sustentabilidad
+Expert_009,Tema 5,Aspectos socio-económicos,Bienestar humano
+Expert_009,Tema 5,Aspectos socio-económicos,Resiliencia
+Expert_009,Tema 5,Aspectos socio-económicos,Restauración ecológica
+Expert_009,Tema 5,Aspectos socio-económicos,Sustentabilidad
+Expert_009,Tema 5,Bienestar humano,Resiliencia
+Expert_009,Tema 5,Bienestar humano,Restauración ecológica
+Expert_009,Tema 5,Bienestar humano,Sustentabilidad
+Expert_009,Tema 5,Resiliencia,Restauración ecológica
+Expert_009,Tema 5,Resiliencia,Sustentabilidad
+Expert_009,Tema 5,Restauración ecológica,Sustentabilidad
+Expert_010,Tema 3,Amenazas humanas,Impactos del cambio climático
+Expert_010,Tema 4,Acoplamiento clima-océano,Biodiversidad
+Expert_010,Tema 4,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_010,Tema 4,Acoplamiento clima-océano,Contaminación
+Expert_010,Tema 4,Acoplamiento clima-océano,Ecología
+Expert_010,Tema 4,Acoplamiento clima-océano,Ecosistemas
+Expert_010,Tema 4,Acoplamiento clima-océano,Especies clave
+Expert_010,Tema 4,Acoplamiento clima-océano,Evolución
+Expert_010,Tema 4,Acoplamiento clima-océano,Productividad
+Expert_010,Tema 4,Acoplamiento clima-océano,Regulación de la biodiversidad global
+Expert_010,Tema 4,Acoplamiento clima-océano,Resiliencia
+Expert_010,Tema 4,Acoplamiento clima-océano,Restauración ecológica
+Expert_010,Tema 4,Acoplamiento clima-océano,Servicios ecosistemicos
+Expert_010,Tema 4,Acoplamiento clima-océano,Sustentabilidad
+Expert_010,Tema 4,Biodiversidad,Ciclos biogeoquímicos
+Expert_010,Tema 4,Biodiversidad,Contaminación
+Expert_010,Tema 4,Biodiversidad,Ecología
+Expert_010,Tema 4,Biodiversidad,Ecosistemas
+Expert_010,Tema 4,Biodiversidad,Especies clave
+Expert_010,Tema 4,Biodiversidad,Evolución
+Expert_010,Tema 4,Biodiversidad,Productividad
+Expert_010,Tema 4,Biodiversidad,Regulación de la biodiversidad global
+Expert_010,Tema 4,Biodiversidad,Resiliencia
+Expert_010,Tema 4,Biodiversidad,Restauración ecológica
+Expert_010,Tema 4,Biodiversidad,Servicios ecosistemicos
+Expert_010,Tema 4,Biodiversidad,Sustentabilidad
+Expert_010,Tema 4,Ciclos biogeoquímicos,Contaminación
+Expert_010,Tema 4,Ciclos biogeoquímicos,Ecología
+Expert_010,Tema 4,Ciclos biogeoquímicos,Ecosistemas
+Expert_010,Tema 4,Ciclos biogeoquímicos,Especies clave
+Expert_010,Tema 4,Ciclos biogeoquímicos,Evolución
+Expert_010,Tema 4,Ciclos biogeoquímicos,Productividad
+Expert_010,Tema 4,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_010,Tema 4,Ciclos biogeoquímicos,Resiliencia
+Expert_010,Tema 4,Ciclos biogeoquímicos,Restauración ecológica
+Expert_010,Tema 4,Ciclos biogeoquímicos,Servicios ecosistemicos
+Expert_010,Tema 4,Ciclos biogeoquímicos,Sustentabilidad
+Expert_010,Tema 4,Contaminación,Ecología
+Expert_010,Tema 4,Contaminación,Ecosistemas
+Expert_010,Tema 4,Contaminación,Especies clave
+Expert_010,Tema 4,Contaminación,Evolución
+Expert_010,Tema 4,Contaminación,Productividad
+Expert_010,Tema 4,Contaminación,Regulación de la biodiversidad global
+Expert_010,Tema 4,Contaminación,Resiliencia
+Expert_010,Tema 4,Contaminación,Restauración ecológica
+Expert_010,Tema 4,Contaminación,Servicios ecosistemicos
+Expert_010,Tema 4,Contaminación,Sustentabilidad
+Expert_010,Tema 4,Ecología,Ecosistemas
+Expert_010,Tema 4,Ecología,Especies clave
+Expert_010,Tema 4,Ecología,Evolución
+Expert_010,Tema 4,Ecología,Productividad
+Expert_010,Tema 4,Ecología,Regulación de la biodiversidad global
+Expert_010,Tema 4,Ecología,Resiliencia
+Expert_010,Tema 4,Ecología,Restauración ecológica
+Expert_010,Tema 4,Ecología,Servicios ecosistemicos
+Expert_010,Tema 4,Ecología,Sustentabilidad
+Expert_010,Tema 4,Ecosistemas,Especies clave
+Expert_010,Tema 4,Ecosistemas,Evolución
+Expert_010,Tema 4,Ecosistemas,Productividad
+Expert_010,Tema 4,Ecosistemas,Regulación de la biodiversidad global
+Expert_010,Tema 4,Ecosistemas,Resiliencia
+Expert_010,Tema 4,Ecosistemas,Restauración ecológica
+Expert_010,Tema 4,Ecosistemas,Servicios ecosistemicos
+Expert_010,Tema 4,Ecosistemas,Sustentabilidad
+Expert_010,Tema 4,Especies clave,Evolución
+Expert_010,Tema 4,Especies clave,Productividad
+Expert_010,Tema 4,Especies clave,Regulación de la biodiversidad global
+Expert_010,Tema 4,Especies clave,Resiliencia
+Expert_010,Tema 4,Especies clave,Restauración ecológica
+Expert_010,Tema 4,Especies clave,Servicios ecosistemicos
+Expert_010,Tema 4,Especies clave,Sustentabilidad
+Expert_010,Tema 4,Evolución,Productividad
+Expert_010,Tema 4,Evolución,Regulación de la biodiversidad global
+Expert_010,Tema 4,Evolución,Resiliencia
+Expert_010,Tema 4,Evolución,Restauración ecológica
+Expert_010,Tema 4,Evolución,Servicios ecosistemicos
+Expert_010,Tema 4,Evolución,Sustentabilidad
+Expert_010,Tema 4,Productividad,Regulación de la biodiversidad global
+Expert_010,Tema 4,Productividad,Resiliencia
+Expert_010,Tema 4,Productividad,Restauración ecológica
+Expert_010,Tema 4,Productividad,Servicios ecosistemicos
+Expert_010,Tema 4,Productividad,Sustentabilidad
+Expert_010,Tema 4,Regulación de la biodiversidad global,Resiliencia
+Expert_010,Tema 4,Regulación de la biodiversidad global,Restauración ecológica
+Expert_010,Tema 4,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_010,Tema 4,Regulación de la biodiversidad global,Sustentabilidad
+Expert_010,Tema 4,Resiliencia,Restauración ecológica
+Expert_010,Tema 4,Resiliencia,Servicios ecosistemicos
+Expert_010,Tema 4,Resiliencia,Sustentabilidad
+Expert_010,Tema 4,Restauración ecológica,Servicios ecosistemicos
+Expert_010,Tema 4,Restauración ecológica,Sustentabilidad
+Expert_010,Tema 4,Servicios ecosistemicos,Sustentabilidad
+Expert_010,Tema 5,Bienestar humano,Conciencia ambiental
+Expert_010,Tema 5,Bienestar humano,Conservación
+Expert_010,Tema 5,Bienestar humano,Geografia
+Expert_010,Tema 5,Bienestar humano,Oceanografía física
+Expert_010,Tema 5,Bienestar humano,Valor cultural
+Expert_010,Tema 5,Conciencia ambiental,Conservación
+Expert_010,Tema 5,Conciencia ambiental,Geografia
+Expert_010,Tema 5,Conciencia ambiental,Oceanografía física
+Expert_010,Tema 5,Conciencia ambiental,Valor cultural
+Expert_010,Tema 5,Conservación,Geografia
+Expert_010,Tema 5,Conservación,Oceanografía física
+Expert_010,Tema 5,Conservación,Valor cultural
+Expert_010,Tema 5,Geografia,Oceanografía física
+Expert_010,Tema 5,Geografia,Valor cultural
+Expert_010,Tema 5,Oceanografía física,Valor cultural
+Expert_011,Tema 1,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_011,Tema 1,Acoplamiento clima-océano,Ecosistemas
+Expert_011,Tema 1,Acoplamiento clima-océano,Geografia
+Expert_011,Tema 1,Acoplamiento clima-océano,Oceanografía física
+Expert_011,Tema 1,Ciclos biogeoquímicos,Ecosistemas
+Expert_011,Tema 1,Ciclos biogeoquímicos,Geografia
+Expert_011,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_011,Tema 1,Ecosistemas,Geografia
+Expert_011,Tema 1,Ecosistemas,Oceanografía física
+Expert_011,Tema 1,Geografia,Oceanografía física
+Expert_011,Tema 2,Biodiversidad,Conservación
+Expert_011,Tema 2,Biodiversidad,Ecología
+Expert_011,Tema 2,Biodiversidad,Especies clave
+Expert_011,Tema 2,Biodiversidad,Evolución
+Expert_011,Tema 2,Biodiversidad,Productividad
+Expert_011,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_011,Tema 2,Conservación,Ecología
+Expert_011,Tema 2,Conservación,Especies clave
+Expert_011,Tema 2,Conservación,Evolución
+Expert_011,Tema 2,Conservación,Productividad
+Expert_011,Tema 2,Conservación,Regulación de la biodiversidad global
+Expert_011,Tema 2,Ecología,Especies clave
+Expert_011,Tema 2,Ecología,Evolución
+Expert_011,Tema 2,Ecología,Productividad
+Expert_011,Tema 2,Ecología,Regulación de la biodiversidad global
+Expert_011,Tema 2,Especies clave,Evolución
+Expert_011,Tema 2,Especies clave,Productividad
+Expert_011,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_011,Tema 2,Evolución,Productividad
+Expert_011,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_011,Tema 2,Productividad,Regulación de la biodiversidad global
+Expert_011,Tema 3,Amenazas humanas,Conciencia ambiental
+Expert_011,Tema 3,Amenazas humanas,Contaminación
+Expert_011,Tema 3,Amenazas humanas,Impactos del cambio climático
+Expert_011,Tema 3,Amenazas humanas,Restauración ecológica
+Expert_011,Tema 3,Conciencia ambiental,Contaminación
+Expert_011,Tema 3,Conciencia ambiental,Impactos del cambio climático
+Expert_011,Tema 3,Conciencia ambiental,Restauración ecológica
+Expert_011,Tema 3,Contaminación,Impactos del cambio climático
+Expert_011,Tema 3,Contaminación,Restauración ecológica
+Expert_011,Tema 3,Impactos del cambio climático,Restauración ecológica
+Expert_011,Tema 4,Aspectos socio-económicos,Pesquerias
+Expert_011,Tema 4,Aspectos socio-económicos,Resiliencia
+Expert_011,Tema 4,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_011,Tema 4,Aspectos socio-económicos,Sustentabilidad
+Expert_011,Tema 4,Aspectos socio-económicos,Valor cultural
+Expert_011,Tema 4,Pesquerias,Resiliencia
+Expert_011,Tema 4,Pesquerias,Servicios ecosistemicos
+Expert_011,Tema 4,Pesquerias,Sustentabilidad
+Expert_011,Tema 4,Pesquerias,Valor cultural
+Expert_011,Tema 4,Resiliencia,Servicios ecosistemicos
+Expert_011,Tema 4,Resiliencia,Sustentabilidad
+Expert_011,Tema 4,Resiliencia,Valor cultural
+Expert_011,Tema 4,Servicios ecosistemicos,Sustentabilidad
+Expert_011,Tema 4,Servicios ecosistemicos,Valor cultural
+Expert_011,Tema 4,Sustentabilidad,Valor cultural
+Expert_012,Tema 1,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_012,Tema 1,Acoplamiento clima-océano,Geografia
+Expert_012,Tema 1,Acoplamiento clima-océano,Oceanografía física
+Expert_012,Tema 1,Ciclos biogeoquímicos,Geografia
+Expert_012,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_012,Tema 1,Geografia,Oceanografía física
+Expert_012,Tema 2,Amenazas humanas,Contaminación
+Expert_012,Tema 2,Amenazas humanas,Impactos del cambio climático
+Expert_012,Tema 2,Amenazas humanas,Resiliencia
+Expert_012,Tema 2,Contaminación,Impactos del cambio climático
+Expert_012,Tema 2,Contaminación,Resiliencia
+Expert_012,Tema 2,Impactos del cambio climático,Resiliencia
+Expert_012,Tema 3,Aspectos socio-económicos,Bienestar humano
+Expert_012,Tema 3,Aspectos socio-económicos,Conciencia ambiental
+Expert_012,Tema 3,Aspectos socio-económicos,Valor cultural
+Expert_012,Tema 3,Bienestar humano,Conciencia ambiental
+Expert_012,Tema 3,Bienestar humano,Valor cultural
+Expert_012,Tema 3,Conciencia ambiental,Valor cultural
+Expert_012,Tema 4,Biodiversidad,Ecología
+Expert_012,Tema 4,Biodiversidad,Ecosistemas
+Expert_012,Tema 4,Biodiversidad,Especies clave
+Expert_012,Tema 4,Biodiversidad,Evolución
+Expert_012,Tema 4,Biodiversidad,Regulación de la biodiversidad global
+Expert_012,Tema 4,Ecología,Ecosistemas
+Expert_012,Tema 4,Ecología,Especies clave
+Expert_012,Tema 4,Ecología,Evolución
+Expert_012,Tema 4,Ecología,Regulación de la biodiversidad global
+Expert_012,Tema 4,Ecosistemas,Especies clave
+Expert_012,Tema 4,Ecosistemas,Evolución
+Expert_012,Tema 4,Ecosistemas,Regulación de la biodiversidad global
+Expert_012,Tema 4,Especies clave,Evolución
+Expert_012,Tema 4,Especies clave,Regulación de la biodiversidad global
+Expert_012,Tema 4,Evolución,Regulación de la biodiversidad global
+Expert_012,Tema 5,Conservación,Pesquerias
+Expert_012,Tema 5,Conservación,Productividad
+Expert_012,Tema 5,Conservación,Restauración ecológica
+Expert_012,Tema 5,Conservación,Servicios ecosistemicos
+Expert_012,Tema 5,Conservación,Sustentabilidad
+Expert_012,Tema 5,Pesquerias,Productividad
+Expert_012,Tema 5,Pesquerias,Restauración ecológica
+Expert_012,Tema 5,Pesquerias,Servicios ecosistemicos
+Expert_012,Tema 5,Pesquerias,Sustentabilidad
+Expert_012,Tema 5,Productividad,Restauración ecológica
+Expert_012,Tema 5,Productividad,Servicios ecosistemicos
+Expert_012,Tema 5,Productividad,Sustentabilidad
+Expert_012,Tema 5,Restauración ecológica,Servicios ecosistemicos
+Expert_012,Tema 5,Restauración ecológica,Sustentabilidad
+Expert_012,Tema 5,Servicios ecosistemicos,Sustentabilidad
+Expert_013,Tema 1,Biodiversidad,Ecología
+Expert_013,Tema 1,Biodiversidad,Ecosistemas
+Expert_013,Tema 1,Biodiversidad,Especies clave
+Expert_013,Tema 1,Biodiversidad,Evolución
+Expert_013,Tema 1,Biodiversidad,Geografia
+Expert_013,Tema 1,Biodiversidad,Resiliencia
+Expert_013,Tema 1,Ecología,Ecosistemas
+Expert_013,Tema 1,Ecología,Especies clave
+Expert_013,Tema 1,Ecología,Evolución
+Expert_013,Tema 1,Ecología,Geografia
+Expert_013,Tema 1,Ecología,Resiliencia
+Expert_013,Tema 1,Ecosistemas,Especies clave
+Expert_013,Tema 1,Ecosistemas,Evolución
+Expert_013,Tema 1,Ecosistemas,Geografia
+Expert_013,Tema 1,Ecosistemas,Resiliencia
+Expert_013,Tema 1,Especies clave,Evolución
+Expert_013,Tema 1,Especies clave,Geografia
+Expert_013,Tema 1,Especies clave,Resiliencia
+Expert_013,Tema 1,Evolución,Geografia
+Expert_013,Tema 1,Evolución,Resiliencia
+Expert_013,Tema 1,Geografia,Resiliencia
+Expert_013,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_013,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_013,Tema 2,Aspectos socio-económicos,Productividad
+Expert_013,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_013,Tema 2,Bienestar humano,Pesquerias
+Expert_013,Tema 2,Bienestar humano,Productividad
+Expert_013,Tema 2,Bienestar humano,Valor cultural
+Expert_013,Tema 2,Pesquerias,Productividad
+Expert_013,Tema 2,Pesquerias,Valor cultural
+Expert_013,Tema 2,Productividad,Valor cultural
+Expert_013,Tema 3,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_013,Tema 3,Acoplamiento clima-océano,Impactos del cambio climático
+Expert_013,Tema 3,Acoplamiento clima-océano,Oceanografía física
+Expert_013,Tema 3,Acoplamiento clima-océano,Regulación de la biodiversidad global
+Expert_013,Tema 3,Acoplamiento clima-océano,Servicios ecosistemicos
+Expert_013,Tema 3,Ciclos biogeoquímicos,Impactos del cambio climático
+Expert_013,Tema 3,Ciclos biogeoquímicos,Oceanografía física
+Expert_013,Tema 3,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_013,Tema 3,Ciclos biogeoquímicos,Servicios ecosistemicos
+Expert_013,Tema 3,Impactos del cambio climático,Oceanografía física
+Expert_013,Tema 3,Impactos del cambio climático,Regulación de la biodiversidad global
+Expert_013,Tema 3,Impactos del cambio climático,Servicios ecosistemicos
+Expert_013,Tema 3,Oceanografía física,Regulación de la biodiversidad global
+Expert_013,Tema 3,Oceanografía física,Servicios ecosistemicos
+Expert_013,Tema 3,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_013,Tema 4,Amenazas humanas,Conciencia ambiental
+Expert_013,Tema 4,Amenazas humanas,Conservación
+Expert_013,Tema 4,Amenazas humanas,Contaminación
+Expert_013,Tema 4,Amenazas humanas,Restauración ecológica
+Expert_013,Tema 4,Amenazas humanas,Sustentabilidad
+Expert_013,Tema 4,Conciencia ambiental,Conservación
+Expert_013,Tema 4,Conciencia ambiental,Contaminación
+Expert_013,Tema 4,Conciencia ambiental,Restauración ecológica
+Expert_013,Tema 4,Conciencia ambiental,Sustentabilidad
+Expert_013,Tema 4,Conservación,Contaminación
+Expert_013,Tema 4,Conservación,Restauración ecológica
+Expert_013,Tema 4,Conservación,Sustentabilidad
+Expert_013,Tema 4,Contaminación,Restauración ecológica
+Expert_013,Tema 4,Contaminación,Sustentabilidad
+Expert_013,Tema 4,Restauración ecológica,Sustentabilidad
+Expert_014,Tema 1,Amenazas humanas,Contaminación
+Expert_014,Tema 1,Amenazas humanas,Impactos del cambio climático
+Expert_014,Tema 1,Contaminación,Impactos del cambio climático
+Expert_014,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_014,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_014,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_014,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_014,Tema 2,Bienestar humano,Pesquerias
+Expert_014,Tema 2,Bienestar humano,Servicios ecosistemicos
+Expert_014,Tema 2,Bienestar humano,Valor cultural
+Expert_014,Tema 2,Pesquerias,Servicios ecosistemicos
+Expert_014,Tema 2,Pesquerias,Valor cultural
+Expert_014,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_014,Tema 3,Biodiversidad,Conservación
+Expert_014,Tema 3,Biodiversidad,Ecología
+Expert_014,Tema 3,Biodiversidad,Ecosistemas
+Expert_014,Tema 3,Biodiversidad,Especies clave
+Expert_014,Tema 3,Biodiversidad,Evolución
+Expert_014,Tema 3,Biodiversidad,Regulación de la biodiversidad global
+Expert_014,Tema 3,Biodiversidad,Resiliencia
+Expert_014,Tema 3,Biodiversidad,Restauración ecológica
+Expert_014,Tema 3,Conservación,Ecología
+Expert_014,Tema 3,Conservación,Ecosistemas
+Expert_014,Tema 3,Conservación,Especies clave
+Expert_014,Tema 3,Conservación,Evolución
+Expert_014,Tema 3,Conservación,Regulación de la biodiversidad global
+Expert_014,Tema 3,Conservación,Resiliencia
+Expert_014,Tema 3,Conservación,Restauración ecológica
+Expert_014,Tema 3,Ecología,Ecosistemas
+Expert_014,Tema 3,Ecología,Especies clave
+Expert_014,Tema 3,Ecología,Evolución
+Expert_014,Tema 3,Ecología,Regulación de la biodiversidad global
+Expert_014,Tema 3,Ecología,Resiliencia
+Expert_014,Tema 3,Ecología,Restauración ecológica
+Expert_014,Tema 3,Ecosistemas,Especies clave
+Expert_014,Tema 3,Ecosistemas,Evolución
+Expert_014,Tema 3,Ecosistemas,Regulación de la biodiversidad global
+Expert_014,Tema 3,Ecosistemas,Resiliencia
+Expert_014,Tema 3,Ecosistemas,Restauración ecológica
+Expert_014,Tema 3,Especies clave,Evolución
+Expert_014,Tema 3,Especies clave,Regulación de la biodiversidad global
+Expert_014,Tema 3,Especies clave,Resiliencia
+Expert_014,Tema 3,Especies clave,Restauración ecológica
+Expert_014,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_014,Tema 3,Evolución,Resiliencia
+Expert_014,Tema 3,Evolución,Restauración ecológica
+Expert_014,Tema 3,Regulación de la biodiversidad global,Resiliencia
+Expert_014,Tema 3,Regulación de la biodiversidad global,Restauración ecológica
+Expert_014,Tema 3,Resiliencia,Restauración ecológica
+Expert_014,Tema 4,Conciencia ambiental,Sustentabilidad
+Expert_014,Tema 5,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_014,Tema 5,Acoplamiento clima-océano,Oceanografía física
+Expert_014,Tema 5,Acoplamiento clima-océano,Productividad
+Expert_014,Tema 5,Ciclos biogeoquímicos,Oceanografía física
+Expert_014,Tema 5,Ciclos biogeoquímicos,Productividad
+Expert_014,Tema 5,Oceanografía física,Productividad
+Expert_015,Tema 1,Ecología,Ecosistemas
+Expert_015,Tema 1,Ecología,Especies clave
+Expert_015,Tema 1,Ecología,Geografia
+Expert_015,Tema 1,Ecosistemas,Especies clave
+Expert_015,Tema 1,Ecosistemas,Geografia
+Expert_015,Tema 1,Especies clave,Geografia
+Expert_015,Tema 2,Acoplamiento clima-océano,Biodiversidad
+Expert_015,Tema 2,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_015,Tema 2,Acoplamiento clima-océano,Evolución
+Expert_015,Tema 2,Acoplamiento clima-océano,Oceanografía física
+Expert_015,Tema 2,Acoplamiento clima-océano,Productividad
+Expert_015,Tema 2,Acoplamiento clima-océano,Regulación de la biodiversidad global
+Expert_015,Tema 2,Acoplamiento clima-océano,Resiliencia
+Expert_015,Tema 2,Acoplamiento clima-océano,Servicios ecosistemicos
+Expert_015,Tema 2,Biodiversidad,Ciclos biogeoquímicos
+Expert_015,Tema 2,Biodiversidad,Evolución
+Expert_015,Tema 2,Biodiversidad,Oceanografía física
+Expert_015,Tema 2,Biodiversidad,Productividad
+Expert_015,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_015,Tema 2,Biodiversidad,Resiliencia
+Expert_015,Tema 2,Biodiversidad,Servicios ecosistemicos
+Expert_015,Tema 2,Ciclos biogeoquímicos,Evolución
+Expert_015,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_015,Tema 2,Ciclos biogeoquímicos,Productividad
+Expert_015,Tema 2,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_015,Tema 2,Ciclos biogeoquímicos,Resiliencia
+Expert_015,Tema 2,Ciclos biogeoquímicos,Servicios ecosistemicos
+Expert_015,Tema 2,Evolución,Oceanografía física
+Expert_015,Tema 2,Evolución,Productividad
+Expert_015,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_015,Tema 2,Evolución,Resiliencia
+Expert_015,Tema 2,Evolución,Servicios ecosistemicos
+Expert_015,Tema 2,Oceanografía física,Productividad
+Expert_015,Tema 2,Oceanografía física,Regulación de la biodiversidad global
+Expert_015,Tema 2,Oceanografía física,Resiliencia
+Expert_015,Tema 2,Oceanografía física,Servicios ecosistemicos
+Expert_015,Tema 2,Productividad,Regulación de la biodiversidad global
+Expert_015,Tema 2,Productividad,Resiliencia
+Expert_015,Tema 2,Productividad,Servicios ecosistemicos
+Expert_015,Tema 2,Regulación de la biodiversidad global,Resiliencia
+Expert_015,Tema 2,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_015,Tema 2,Resiliencia,Servicios ecosistemicos
+Expert_015,Tema 3,Aspectos socio-económicos,Bienestar humano
+Expert_015,Tema 3,Aspectos socio-económicos,Conciencia ambiental
+Expert_015,Tema 3,Aspectos socio-económicos,Conservación
+Expert_015,Tema 3,Aspectos socio-económicos,Pesquerias
+Expert_015,Tema 3,Aspectos socio-económicos,Sustentabilidad
+Expert_015,Tema 3,Aspectos socio-económicos,Valor cultural
+Expert_015,Tema 3,Bienestar humano,Conciencia ambiental
+Expert_015,Tema 3,Bienestar humano,Conservación
+Expert_015,Tema 3,Bienestar humano,Pesquerias
+Expert_015,Tema 3,Bienestar humano,Sustentabilidad
+Expert_015,Tema 3,Bienestar humano,Valor cultural
+Expert_015,Tema 3,Conciencia ambiental,Conservación
+Expert_015,Tema 3,Conciencia ambiental,Pesquerias
+Expert_015,Tema 3,Conciencia ambiental,Sustentabilidad
+Expert_015,Tema 3,Conciencia ambiental,Valor cultural
+Expert_015,Tema 3,Conservación,Pesquerias
+Expert_015,Tema 3,Conservación,Sustentabilidad
+Expert_015,Tema 3,Conservación,Valor cultural
+Expert_015,Tema 3,Pesquerias,Sustentabilidad
+Expert_015,Tema 3,Pesquerias,Valor cultural
+Expert_015,Tema 3,Sustentabilidad,Valor cultural
+Expert_015,Tema 4,Amenazas humanas,Contaminación
+Expert_015,Tema 4,Amenazas humanas,Impactos del cambio climático
+Expert_015,Tema 4,Amenazas humanas,Restauración ecológica
+Expert_015,Tema 4,Contaminación,Impactos del cambio climático
+Expert_015,Tema 4,Contaminación,Restauración ecológica
+Expert_015,Tema 4,Impactos del cambio climático,Restauración ecológica
+Expert_015,x,NA,NA
+Expert_016,Tema 1,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_016,Tema 1,Acoplamiento clima-océano,Ecología
+Expert_016,Tema 1,Acoplamiento clima-océano,Evolución
+Expert_016,Tema 1,Acoplamiento clima-océano,Geografia
+Expert_016,Tema 1,Acoplamiento clima-océano,Oceanografía física
+Expert_016,Tema 1,Acoplamiento clima-océano,Servicios ecosistemicos
+Expert_016,Tema 1,Ciclos biogeoquímicos,Ecología
+Expert_016,Tema 1,Ciclos biogeoquímicos,Evolución
+Expert_016,Tema 1,Ciclos biogeoquímicos,Geografia
+Expert_016,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_016,Tema 1,Ciclos biogeoquímicos,Servicios ecosistemicos
+Expert_016,Tema 1,Ecología,Evolución
+Expert_016,Tema 1,Ecología,Geografia
+Expert_016,Tema 1,Ecología,Oceanografía física
+Expert_016,Tema 1,Ecología,Servicios ecosistemicos
+Expert_016,Tema 1,Evolución,Geografia
+Expert_016,Tema 1,Evolución,Oceanografía física
+Expert_016,Tema 1,Evolución,Servicios ecosistemicos
+Expert_016,Tema 1,Geografia,Oceanografía física
+Expert_016,Tema 1,Geografia,Servicios ecosistemicos
+Expert_016,Tema 1,Oceanografía física,Servicios ecosistemicos
+Expert_016,Tema 2,Amenazas humanas,Aspectos socio-económicos
+Expert_016,Tema 2,Amenazas humanas,Bienestar humano
+Expert_016,Tema 2,Amenazas humanas,Conciencia ambiental
+Expert_016,Tema 2,Amenazas humanas,Valor cultural
+Expert_016,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_016,Tema 2,Aspectos socio-económicos,Conciencia ambiental
+Expert_016,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_016,Tema 2,Bienestar humano,Conciencia ambiental
+Expert_016,Tema 2,Bienestar humano,Valor cultural
+Expert_016,Tema 2,Conciencia ambiental,Valor cultural
+Expert_016,Tema 3,Biodiversidad,Impactos del cambio climático
+Expert_016,Tema 3,Biodiversidad,Sustentabilidad
+Expert_016,Tema 3,Impactos del cambio climático,Sustentabilidad
+Expert_016,Tema 4,Regulación de la biodiversidad global,Resiliencia
+Expert_016,Tema 4,Regulación de la biodiversidad global,Restauración ecológica
+Expert_016,Tema 4,Resiliencia,Restauración ecológica
+Expert_016,Tema 5,Conservación,Contaminación
+Expert_016,Tema 5,Conservación,Ecosistemas
+Expert_016,Tema 5,Conservación,Especies clave
+Expert_016,Tema 5,Conservación,Pesquerias
+Expert_016,Tema 5,Conservación,Productividad
+Expert_016,Tema 5,Contaminación,Ecosistemas
+Expert_016,Tema 5,Contaminación,Especies clave
+Expert_016,Tema 5,Contaminación,Pesquerias
+Expert_016,Tema 5,Contaminación,Productividad
+Expert_016,Tema 5,Ecosistemas,Especies clave
+Expert_016,Tema 5,Ecosistemas,Pesquerias
+Expert_016,Tema 5,Ecosistemas,Productividad
+Expert_016,Tema 5,Especies clave,Pesquerias
+Expert_016,Tema 5,Especies clave,Productividad
+Expert_016,Tema 5,Pesquerias,Productividad
+Expert_017,-,NA,NA
+Expert_017,Tema 1,Acoplamiento clima-océano,Bienestar humano
+Expert_017,Tema 1,Acoplamiento clima-océano,Biodiversidad
+Expert_017,Tema 1,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_017,Tema 1,Acoplamiento clima-océano,Conciencia ambiental
+Expert_017,Tema 1,Acoplamiento clima-océano,Ecología
+Expert_017,Tema 1,Acoplamiento clima-océano,Impactos del cambio climático
+Expert_017,Tema 1,Acoplamiento clima-océano,Oceanografía física
+Expert_017,Tema 1,Acoplamiento clima-océano,Productividad
+Expert_017,Tema 1,Bienestar humano,Biodiversidad
+Expert_017,Tema 1,Bienestar humano,Ciclos biogeoquímicos
+Expert_017,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_017,Tema 1,Bienestar humano,Ecología
+Expert_017,Tema 1,Bienestar humano,Impactos del cambio climático
+Expert_017,Tema 1,Bienestar humano,Oceanografía física
+Expert_017,Tema 1,Bienestar humano,Productividad
+Expert_017,Tema 1,Biodiversidad,Ciclos biogeoquímicos
+Expert_017,Tema 1,Biodiversidad,Conciencia ambiental
+Expert_017,Tema 1,Biodiversidad,Ecología
+Expert_017,Tema 1,Biodiversidad,Impactos del cambio climático
+Expert_017,Tema 1,Biodiversidad,Oceanografía física
+Expert_017,Tema 1,Biodiversidad,Productividad
+Expert_017,Tema 1,Ciclos biogeoquímicos,Conciencia ambiental
+Expert_017,Tema 1,Ciclos biogeoquímicos,Ecología
+Expert_017,Tema 1,Ciclos biogeoquímicos,Impactos del cambio climático
+Expert_017,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_017,Tema 1,Ciclos biogeoquímicos,Productividad
+Expert_017,Tema 1,Conciencia ambiental,Ecología
+Expert_017,Tema 1,Conciencia ambiental,Impactos del cambio climático
+Expert_017,Tema 1,Conciencia ambiental,Oceanografía física
+Expert_017,Tema 1,Conciencia ambiental,Productividad
+Expert_017,Tema 1,Ecología,Impactos del cambio climático
+Expert_017,Tema 1,Ecología,Oceanografía física
+Expert_017,Tema 1,Ecología,Productividad
+Expert_017,Tema 1,Impactos del cambio climático,Oceanografía física
+Expert_017,Tema 1,Impactos del cambio climático,Productividad
+Expert_017,Tema 1,Oceanografía física,Productividad
+Expert_017,Tema 2,Amenazas humanas,Aspectos socio-económicos
+Expert_017,Tema 2,Amenazas humanas,Conservación
+Expert_017,Tema 2,Amenazas humanas,Contaminación
+Expert_017,Tema 2,Amenazas humanas,Ecosistemas
+Expert_017,Tema 2,Amenazas humanas,Pesquerias
+Expert_017,Tema 2,Amenazas humanas,Resiliencia
+Expert_017,Tema 2,Amenazas humanas,Restauración ecológica
+Expert_017,Tema 2,Amenazas humanas,Servicios ecosistemicos
+Expert_017,Tema 2,Amenazas humanas,Sustentabilidad
+Expert_017,Tema 2,Amenazas humanas,Valor cultural
+Expert_017,Tema 2,Aspectos socio-económicos,Conservación
+Expert_017,Tema 2,Aspectos socio-económicos,Contaminación
+Expert_017,Tema 2,Aspectos socio-económicos,Ecosistemas
+Expert_017,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_017,Tema 2,Aspectos socio-económicos,Resiliencia
+Expert_017,Tema 2,Aspectos socio-económicos,Restauración ecológica
+Expert_017,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_017,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_017,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_017,Tema 2,Conservación,Contaminación
+Expert_017,Tema 2,Conservación,Ecosistemas
+Expert_017,Tema 2,Conservación,Pesquerias
+Expert_017,Tema 2,Conservación,Resiliencia
+Expert_017,Tema 2,Conservación,Restauración ecológica
+Expert_017,Tema 2,Conservación,Servicios ecosistemicos
+Expert_017,Tema 2,Conservación,Sustentabilidad
+Expert_017,Tema 2,Conservación,Valor cultural
+Expert_017,Tema 2,Contaminación,Ecosistemas
+Expert_017,Tema 2,Contaminación,Pesquerias
+Expert_017,Tema 2,Contaminación,Resiliencia
+Expert_017,Tema 2,Contaminación,Restauración ecológica
+Expert_017,Tema 2,Contaminación,Servicios ecosistemicos
+Expert_017,Tema 2,Contaminación,Sustentabilidad
+Expert_017,Tema 2,Contaminación,Valor cultural
+Expert_017,Tema 2,Ecosistemas,Pesquerias
+Expert_017,Tema 2,Ecosistemas,Resiliencia
+Expert_017,Tema 2,Ecosistemas,Restauración ecológica
+Expert_017,Tema 2,Ecosistemas,Servicios ecosistemicos
+Expert_017,Tema 2,Ecosistemas,Sustentabilidad
+Expert_017,Tema 2,Ecosistemas,Valor cultural
+Expert_017,Tema 2,Pesquerias,Resiliencia
+Expert_017,Tema 2,Pesquerias,Restauración ecológica
+Expert_017,Tema 2,Pesquerias,Servicios ecosistemicos
+Expert_017,Tema 2,Pesquerias,Sustentabilidad
+Expert_017,Tema 2,Pesquerias,Valor cultural
+Expert_017,Tema 2,Resiliencia,Restauración ecológica
+Expert_017,Tema 2,Resiliencia,Servicios ecosistemicos
+Expert_017,Tema 2,Resiliencia,Sustentabilidad
+Expert_017,Tema 2,Resiliencia,Valor cultural
+Expert_017,Tema 2,Restauración ecológica,Servicios ecosistemicos
+Expert_017,Tema 2,Restauración ecológica,Sustentabilidad
+Expert_017,Tema 2,Restauración ecológica,Valor cultural
+Expert_017,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_017,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_017,Tema 2,Sustentabilidad,Valor cultural
+Expert_017,Tema 3,Especies clave,Evolución
+Expert_017,Tema 3,Especies clave,Geografia
+Expert_017,Tema 3,Especies clave,Regulación de la biodiversidad global
+Expert_017,Tema 3,Evolución,Geografia
+Expert_017,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_017,Tema 3,Geografia,Regulación de la biodiversidad global
+Expert_018,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_018,Tema 1,Amenazas humanas,Bienestar humano
+Expert_018,Tema 1,Amenazas humanas,Resiliencia
+Expert_018,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_018,Tema 1,Amenazas humanas,Valor cultural
+Expert_018,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_018,Tema 1,Aspectos socio-económicos,Resiliencia
+Expert_018,Tema 1,Aspectos socio-económicos,Sustentabilidad
+Expert_018,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_018,Tema 1,Bienestar humano,Resiliencia
+Expert_018,Tema 1,Bienestar humano,Sustentabilidad
+Expert_018,Tema 1,Bienestar humano,Valor cultural
+Expert_018,Tema 1,Resiliencia,Sustentabilidad
+Expert_018,Tema 1,Resiliencia,Valor cultural
+Expert_018,Tema 1,Sustentabilidad,Valor cultural
+Expert_018,Tema 2,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_018,Tema 2,Acoplamiento clima-océano,Impactos del cambio climático
+Expert_018,Tema 2,Ciclos biogeoquímicos,Impactos del cambio climático
+Expert_018,Tema 3,Biodiversidad,Ecología
+Expert_018,Tema 3,Biodiversidad,Ecosistemas
+Expert_018,Tema 3,Biodiversidad,Especies clave
+Expert_018,Tema 3,Ecología,Ecosistemas
+Expert_018,Tema 3,Ecología,Especies clave
+Expert_018,Tema 3,Ecosistemas,Especies clave
+Expert_018,Tema 4,Conciencia ambiental,Conservación
+Expert_018,Tema 4,Conciencia ambiental,Contaminación
+Expert_018,Tema 4,Conciencia ambiental,Pesquerias
+Expert_018,Tema 4,Conciencia ambiental,Productividad
+Expert_018,Tema 4,Conservación,Contaminación
+Expert_018,Tema 4,Conservación,Pesquerias
+Expert_018,Tema 4,Conservación,Productividad
+Expert_018,Tema 4,Contaminación,Pesquerias
+Expert_018,Tema 4,Contaminación,Productividad
+Expert_018,Tema 4,Pesquerias,Productividad
+Expert_018,Tema 5,Regulación de la biodiversidad global,Restauración ecológica
+Expert_019,---,NA,NA
+Expert_019,---,NA,NA
+Expert_019,---,NA,NA
+Expert_019,Tema 1,Biodiversidad,Ecología
+Expert_019,Tema 1,Biodiversidad,Ecosistemas
+Expert_019,Tema 1,Biodiversidad,Especies clave
+Expert_019,Tema 1,Biodiversidad,Evolución
+Expert_019,Tema 1,Biodiversidad,Geografia
+Expert_019,Tema 1,Biodiversidad,Impactos del cambio climático
+Expert_019,Tema 1,Biodiversidad,Oceanografía física
+Expert_019,Tema 1,Biodiversidad,Productividad
+Expert_019,Tema 1,Biodiversidad,Regulación de la biodiversidad global
+Expert_019,Tema 1,Biodiversidad,Servicios ecosistemicos
+Expert_019,Tema 1,Ecología,Ecosistemas
+Expert_019,Tema 1,Ecología,Especies clave
+Expert_019,Tema 1,Ecología,Evolución
+Expert_019,Tema 1,Ecología,Geografia
+Expert_019,Tema 1,Ecología,Impactos del cambio climático
+Expert_019,Tema 1,Ecología,Oceanografía física
+Expert_019,Tema 1,Ecología,Productividad
+Expert_019,Tema 1,Ecología,Regulación de la biodiversidad global
+Expert_019,Tema 1,Ecología,Servicios ecosistemicos
+Expert_019,Tema 1,Ecosistemas,Especies clave
+Expert_019,Tema 1,Ecosistemas,Evolución
+Expert_019,Tema 1,Ecosistemas,Geografia
+Expert_019,Tema 1,Ecosistemas,Impactos del cambio climático
+Expert_019,Tema 1,Ecosistemas,Oceanografía física
+Expert_019,Tema 1,Ecosistemas,Productividad
+Expert_019,Tema 1,Ecosistemas,Regulación de la biodiversidad global
+Expert_019,Tema 1,Ecosistemas,Servicios ecosistemicos
+Expert_019,Tema 1,Especies clave,Evolución
+Expert_019,Tema 1,Especies clave,Geografia
+Expert_019,Tema 1,Especies clave,Impactos del cambio climático
+Expert_019,Tema 1,Especies clave,Oceanografía física
+Expert_019,Tema 1,Especies clave,Productividad
+Expert_019,Tema 1,Especies clave,Regulación de la biodiversidad global
+Expert_019,Tema 1,Especies clave,Servicios ecosistemicos
+Expert_019,Tema 1,Evolución,Geografia
+Expert_019,Tema 1,Evolución,Impactos del cambio climático
+Expert_019,Tema 1,Evolución,Oceanografía física
+Expert_019,Tema 1,Evolución,Productividad
+Expert_019,Tema 1,Evolución,Regulación de la biodiversidad global
+Expert_019,Tema 1,Evolución,Servicios ecosistemicos
+Expert_019,Tema 1,Geografia,Impactos del cambio climático
+Expert_019,Tema 1,Geografia,Oceanografía física
+Expert_019,Tema 1,Geografia,Productividad
+Expert_019,Tema 1,Geografia,Regulación de la biodiversidad global
+Expert_019,Tema 1,Geografia,Servicios ecosistemicos
+Expert_019,Tema 1,Impactos del cambio climático,Oceanografía física
+Expert_019,Tema 1,Impactos del cambio climático,Productividad
+Expert_019,Tema 1,Impactos del cambio climático,Regulación de la biodiversidad global
+Expert_019,Tema 1,Impactos del cambio climático,Servicios ecosistemicos
+Expert_019,Tema 1,Oceanografía física,Productividad
+Expert_019,Tema 1,Oceanografía física,Regulación de la biodiversidad global
+Expert_019,Tema 1,Oceanografía física,Servicios ecosistemicos
+Expert_019,Tema 1,Productividad,Regulación de la biodiversidad global
+Expert_019,Tema 1,Productividad,Servicios ecosistemicos
+Expert_019,Tema 1,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_019,Tema 2,Amenazas humanas,Aspectos socio-económicos
+Expert_019,Tema 2,Amenazas humanas,Bienestar humano
+Expert_019,Tema 2,Amenazas humanas,Conciencia ambiental
+Expert_019,Tema 2,Amenazas humanas,Conservación
+Expert_019,Tema 2,Amenazas humanas,Contaminación
+Expert_019,Tema 2,Amenazas humanas,Pesquerias
+Expert_019,Tema 2,Amenazas humanas,Resiliencia
+Expert_019,Tema 2,Amenazas humanas,Restauración ecológica
+Expert_019,Tema 2,Amenazas humanas,Sustentabilidad
+Expert_019,Tema 2,Amenazas humanas,Valor cultural
+Expert_019,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_019,Tema 2,Aspectos socio-económicos,Conciencia ambiental
+Expert_019,Tema 2,Aspectos socio-económicos,Conservación
+Expert_019,Tema 2,Aspectos socio-económicos,Contaminación
+Expert_019,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_019,Tema 2,Aspectos socio-económicos,Resiliencia
+Expert_019,Tema 2,Aspectos socio-económicos,Restauración ecológica
+Expert_019,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_019,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_019,Tema 2,Bienestar humano,Conciencia ambiental
+Expert_019,Tema 2,Bienestar humano,Conservación
+Expert_019,Tema 2,Bienestar humano,Contaminación
+Expert_019,Tema 2,Bienestar humano,Pesquerias
+Expert_019,Tema 2,Bienestar humano,Resiliencia
+Expert_019,Tema 2,Bienestar humano,Restauración ecológica
+Expert_019,Tema 2,Bienestar humano,Sustentabilidad
+Expert_019,Tema 2,Bienestar humano,Valor cultural
+Expert_019,Tema 2,Conciencia ambiental,Conservación
+Expert_019,Tema 2,Conciencia ambiental,Contaminación
+Expert_019,Tema 2,Conciencia ambiental,Pesquerias
+Expert_019,Tema 2,Conciencia ambiental,Resiliencia
+Expert_019,Tema 2,Conciencia ambiental,Restauración ecológica
+Expert_019,Tema 2,Conciencia ambiental,Sustentabilidad
+Expert_019,Tema 2,Conciencia ambiental,Valor cultural
+Expert_019,Tema 2,Conservación,Contaminación
+Expert_019,Tema 2,Conservación,Pesquerias
+Expert_019,Tema 2,Conservación,Resiliencia
+Expert_019,Tema 2,Conservación,Restauración ecológica
+Expert_019,Tema 2,Conservación,Sustentabilidad
+Expert_019,Tema 2,Conservación,Valor cultural
+Expert_019,Tema 2,Contaminación,Pesquerias
+Expert_019,Tema 2,Contaminación,Resiliencia
+Expert_019,Tema 2,Contaminación,Restauración ecológica
+Expert_019,Tema 2,Contaminación,Sustentabilidad
+Expert_019,Tema 2,Contaminación,Valor cultural
+Expert_019,Tema 2,Pesquerias,Resiliencia
+Expert_019,Tema 2,Pesquerias,Restauración ecológica
+Expert_019,Tema 2,Pesquerias,Sustentabilidad
+Expert_019,Tema 2,Pesquerias,Valor cultural
+Expert_019,Tema 2,Resiliencia,Restauración ecológica
+Expert_019,Tema 2,Resiliencia,Sustentabilidad
+Expert_019,Tema 2,Resiliencia,Valor cultural
+Expert_019,Tema 2,Restauración ecológica,Sustentabilidad
+Expert_019,Tema 2,Restauración ecológica,Valor cultural
+Expert_019,Tema 2,Sustentabilidad,Valor cultural
+Expert_020,Tema 1,Biodiversidad,Conservación
+Expert_020,Tema 1,Biodiversidad,Especies clave
+Expert_020,Tema 1,Biodiversidad,Regulación de la biodiversidad global
+Expert_020,Tema 1,Biodiversidad,Resiliencia
+Expert_020,Tema 1,Biodiversidad,Valor cultural
+Expert_020,Tema 1,Conservación,Especies clave
+Expert_020,Tema 1,Conservación,Regulación de la biodiversidad global
+Expert_020,Tema 1,Conservación,Resiliencia
+Expert_020,Tema 1,Conservación,Valor cultural
+Expert_020,Tema 1,Especies clave,Regulación de la biodiversidad global
+Expert_020,Tema 1,Especies clave,Resiliencia
+Expert_020,Tema 1,Especies clave,Valor cultural
+Expert_020,Tema 1,Regulación de la biodiversidad global,Resiliencia
+Expert_020,Tema 1,Regulación de la biodiversidad global,Valor cultural
+Expert_020,Tema 1,Resiliencia,Valor cultural
+Expert_020,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_020,Tema 3,Bienestar humano,Conciencia ambiental
+Expert_020,Tema 3,Bienestar humano,Ecología
+Expert_020,Tema 3,Conciencia ambiental,Ecología
+Expert_020,Tema 4,Amenazas humanas,Aspectos socio-económicos
+Expert_021,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_021,Tema 1,Amenazas humanas,Bienestar humano
+Expert_021,Tema 1,Amenazas humanas,Valor cultural
+Expert_021,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_021,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_021,Tema 1,Bienestar humano,Valor cultural
+Expert_021,Tema 2,Biodiversidad,Conciencia ambiental
+Expert_021,Tema 2,Biodiversidad,Conservación
+Expert_021,Tema 2,Biodiversidad,Contaminación
+Expert_021,Tema 2,Biodiversidad,Ecología
+Expert_021,Tema 2,Biodiversidad,Ecosistemas
+Expert_021,Tema 2,Biodiversidad,Especies clave
+Expert_021,Tema 2,Biodiversidad,Evolución
+Expert_021,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_021,Tema 2,Conciencia ambiental,Conservación
+Expert_021,Tema 2,Conciencia ambiental,Contaminación
+Expert_021,Tema 2,Conciencia ambiental,Ecología
+Expert_021,Tema 2,Conciencia ambiental,Ecosistemas
+Expert_021,Tema 2,Conciencia ambiental,Especies clave
+Expert_021,Tema 2,Conciencia ambiental,Evolución
+Expert_021,Tema 2,Conciencia ambiental,Regulación de la biodiversidad global
+Expert_021,Tema 2,Conservación,Contaminación
+Expert_021,Tema 2,Conservación,Ecología
+Expert_021,Tema 2,Conservación,Ecosistemas
+Expert_021,Tema 2,Conservación,Especies clave
+Expert_021,Tema 2,Conservación,Evolución
+Expert_021,Tema 2,Conservación,Regulación de la biodiversidad global
+Expert_021,Tema 2,Contaminación,Ecología
+Expert_021,Tema 2,Contaminación,Ecosistemas
+Expert_021,Tema 2,Contaminación,Especies clave
+Expert_021,Tema 2,Contaminación,Evolución
+Expert_021,Tema 2,Contaminación,Regulación de la biodiversidad global
+Expert_021,Tema 2,Ecología,Ecosistemas
+Expert_021,Tema 2,Ecología,Especies clave
+Expert_021,Tema 2,Ecología,Evolución
+Expert_021,Tema 2,Ecología,Regulación de la biodiversidad global
+Expert_021,Tema 2,Ecosistemas,Especies clave
+Expert_021,Tema 2,Ecosistemas,Evolución
+Expert_021,Tema 2,Ecosistemas,Regulación de la biodiversidad global
+Expert_021,Tema 2,Especies clave,Evolución
+Expert_021,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_021,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_021,Tema 3,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_021,Tema 3,Acoplamiento clima-océano,Geografia
+Expert_021,Tema 3,Acoplamiento clima-océano,Impactos del cambio climático
+Expert_021,Tema 3,Acoplamiento clima-océano,Oceanografía física
+Expert_021,Tema 3,Ciclos biogeoquímicos,Geografia
+Expert_021,Tema 3,Ciclos biogeoquímicos,Impactos del cambio climático
+Expert_021,Tema 3,Ciclos biogeoquímicos,Oceanografía física
+Expert_021,Tema 3,Geografia,Impactos del cambio climático
+Expert_021,Tema 3,Geografia,Oceanografía física
+Expert_021,Tema 3,Impactos del cambio climático,Oceanografía física
+Expert_021,Tema 4,Pesquerias,Productividad
+Expert_021,Tema 4,Pesquerias,Resiliencia
+Expert_021,Tema 4,Pesquerias,Restauración ecológica
+Expert_021,Tema 4,Pesquerias,Servicios ecosistemicos
+Expert_021,Tema 4,Pesquerias,Sustentabilidad
+Expert_021,Tema 4,Productividad,Resiliencia
+Expert_021,Tema 4,Productividad,Restauración ecológica
+Expert_021,Tema 4,Productividad,Servicios ecosistemicos
+Expert_021,Tema 4,Productividad,Sustentabilidad
+Expert_021,Tema 4,Resiliencia,Restauración ecológica
+Expert_021,Tema 4,Resiliencia,Servicios ecosistemicos
+Expert_021,Tema 4,Resiliencia,Sustentabilidad
+Expert_021,Tema 4,Restauración ecológica,Servicios ecosistemicos
+Expert_021,Tema 4,Restauración ecológica,Sustentabilidad
+Expert_021,Tema 4,Servicios ecosistemicos,Sustentabilidad
+Expert_022,Tema 1,Acoplamiento clima-océano,Biodiversidad
+Expert_022,Tema 1,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_022,Tema 1,Acoplamiento clima-océano,Especies clave
+Expert_022,Tema 1,Acoplamiento clima-océano,Evolución
+Expert_022,Tema 1,Acoplamiento clima-océano,Oceanografía física
+Expert_022,Tema 1,Acoplamiento clima-océano,Regulación de la biodiversidad global
+Expert_022,Tema 1,Acoplamiento clima-océano,Resiliencia
+Expert_022,Tema 1,Acoplamiento clima-océano,Restauración ecológica
+Expert_022,Tema 1,Biodiversidad,Ciclos biogeoquímicos
+Expert_022,Tema 1,Biodiversidad,Especies clave
+Expert_022,Tema 1,Biodiversidad,Evolución
+Expert_022,Tema 1,Biodiversidad,Oceanografía física
+Expert_022,Tema 1,Biodiversidad,Regulación de la biodiversidad global
+Expert_022,Tema 1,Biodiversidad,Resiliencia
+Expert_022,Tema 1,Biodiversidad,Restauración ecológica
+Expert_022,Tema 1,Ciclos biogeoquímicos,Especies clave
+Expert_022,Tema 1,Ciclos biogeoquímicos,Evolución
+Expert_022,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_022,Tema 1,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_022,Tema 1,Ciclos biogeoquímicos,Resiliencia
+Expert_022,Tema 1,Ciclos biogeoquímicos,Restauración ecológica
+Expert_022,Tema 1,Especies clave,Evolución
+Expert_022,Tema 1,Especies clave,Oceanografía física
+Expert_022,Tema 1,Especies clave,Regulación de la biodiversidad global
+Expert_022,Tema 1,Especies clave,Resiliencia
+Expert_022,Tema 1,Especies clave,Restauración ecológica
+Expert_022,Tema 1,Evolución,Oceanografía física
+Expert_022,Tema 1,Evolución,Regulación de la biodiversidad global
+Expert_022,Tema 1,Evolución,Resiliencia
+Expert_022,Tema 1,Evolución,Restauración ecológica
+Expert_022,Tema 1,Oceanografía física,Regulación de la biodiversidad global
+Expert_022,Tema 1,Oceanografía física,Resiliencia
+Expert_022,Tema 1,Oceanografía física,Restauración ecológica
+Expert_022,Tema 1,Regulación de la biodiversidad global,Resiliencia
+Expert_022,Tema 1,Regulación de la biodiversidad global,Restauración ecológica
+Expert_022,Tema 1,Resiliencia,Restauración ecológica
+Expert_022,Tema 2,Amenazas humanas,Aspectos socio-económicos
+Expert_022,Tema 2,Amenazas humanas,Contaminación
+Expert_022,Tema 2,Amenazas humanas,Pesquerias
+Expert_022,Tema 2,Amenazas humanas,Productividad
+Expert_022,Tema 2,Amenazas humanas,Valor cultural
+Expert_022,Tema 2,Aspectos socio-económicos,Contaminación
+Expert_022,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_022,Tema 2,Aspectos socio-económicos,Productividad
+Expert_022,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_022,Tema 2,Contaminación,Pesquerias
+Expert_022,Tema 2,Contaminación,Productividad
+Expert_022,Tema 2,Contaminación,Valor cultural
+Expert_022,Tema 2,Pesquerias,Productividad
+Expert_022,Tema 2,Pesquerias,Valor cultural
+Expert_022,Tema 2,Productividad,Valor cultural
+Expert_022,Tema 3,Bienestar humano,Conciencia ambiental
+Expert_022,Tema 3,Bienestar humano,Conservación
+Expert_022,Tema 3,Bienestar humano,Ecología
+Expert_022,Tema 3,Bienestar humano,Ecosistemas
+Expert_022,Tema 3,Bienestar humano,Impactos del cambio climático
+Expert_022,Tema 3,Bienestar humano,Servicios ecosistemicos
+Expert_022,Tema 3,Bienestar humano,Sustentabilidad
+Expert_022,Tema 3,Conciencia ambiental,Conservación
+Expert_022,Tema 3,Conciencia ambiental,Ecología
+Expert_022,Tema 3,Conciencia ambiental,Ecosistemas
+Expert_022,Tema 3,Conciencia ambiental,Impactos del cambio climático
+Expert_022,Tema 3,Conciencia ambiental,Servicios ecosistemicos
+Expert_022,Tema 3,Conciencia ambiental,Sustentabilidad
+Expert_022,Tema 3,Conservación,Ecología
+Expert_022,Tema 3,Conservación,Ecosistemas
+Expert_022,Tema 3,Conservación,Impactos del cambio climático
+Expert_022,Tema 3,Conservación,Servicios ecosistemicos
+Expert_022,Tema 3,Conservación,Sustentabilidad
+Expert_022,Tema 3,Ecología,Ecosistemas
+Expert_022,Tema 3,Ecología,Impactos del cambio climático
+Expert_022,Tema 3,Ecología,Servicios ecosistemicos
+Expert_022,Tema 3,Ecología,Sustentabilidad
+Expert_022,Tema 3,Ecosistemas,Impactos del cambio climático
+Expert_022,Tema 3,Ecosistemas,Servicios ecosistemicos
+Expert_022,Tema 3,Ecosistemas,Sustentabilidad
+Expert_022,Tema 3,Impactos del cambio climático,Servicios ecosistemicos
+Expert_022,Tema 3,Impactos del cambio climático,Sustentabilidad
+Expert_022,Tema 3,Servicios ecosistemicos,Sustentabilidad
+Expert_023,Tema 1,Amenazas humanas,Contaminación
+Expert_023,Tema 1,Amenazas humanas,Impactos del cambio climático
+Expert_023,Tema 1,Contaminación,Impactos del cambio climático
+Expert_023,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_023,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_023,Tema 2,Aspectos socio-económicos,Productividad
+Expert_023,Tema 2,Aspectos socio-económicos,Regulación de la biodiversidad global
+Expert_023,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_023,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_023,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_023,Tema 2,Bienestar humano,Pesquerias
+Expert_023,Tema 2,Bienestar humano,Productividad
+Expert_023,Tema 2,Bienestar humano,Regulación de la biodiversidad global
+Expert_023,Tema 2,Bienestar humano,Servicios ecosistemicos
+Expert_023,Tema 2,Bienestar humano,Sustentabilidad
+Expert_023,Tema 2,Bienestar humano,Valor cultural
+Expert_023,Tema 2,Pesquerias,Productividad
+Expert_023,Tema 2,Pesquerias,Regulación de la biodiversidad global
+Expert_023,Tema 2,Pesquerias,Servicios ecosistemicos
+Expert_023,Tema 2,Pesquerias,Sustentabilidad
+Expert_023,Tema 2,Pesquerias,Valor cultural
+Expert_023,Tema 2,Productividad,Regulación de la biodiversidad global
+Expert_023,Tema 2,Productividad,Servicios ecosistemicos
+Expert_023,Tema 2,Productividad,Sustentabilidad
+Expert_023,Tema 2,Productividad,Valor cultural
+Expert_023,Tema 2,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_023,Tema 2,Regulación de la biodiversidad global,Sustentabilidad
+Expert_023,Tema 2,Regulación de la biodiversidad global,Valor cultural
+Expert_023,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_023,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_023,Tema 2,Sustentabilidad,Valor cultural
+Expert_023,Tema 3,Biodiversidad,Conciencia ambiental
+Expert_023,Tema 3,Biodiversidad,Conservación
+Expert_023,Tema 3,Biodiversidad,Especies clave
+Expert_023,Tema 3,Biodiversidad,Restauración ecológica
+Expert_023,Tema 3,Conciencia ambiental,Conservación
+Expert_023,Tema 3,Conciencia ambiental,Especies clave
+Expert_023,Tema 3,Conciencia ambiental,Restauración ecológica
+Expert_023,Tema 3,Conservación,Especies clave
+Expert_023,Tema 3,Conservación,Restauración ecológica
+Expert_023,Tema 3,Especies clave,Restauración ecológica
+Expert_023,Tema 4,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_023,Tema 4,Acoplamiento clima-océano,Ecología
+Expert_023,Tema 4,Acoplamiento clima-océano,Ecosistemas
+Expert_023,Tema 4,Acoplamiento clima-océano,Evolución
+Expert_023,Tema 4,Acoplamiento clima-océano,Geografia
+Expert_023,Tema 4,Acoplamiento clima-océano,Oceanografía física
+Expert_023,Tema 4,Ciclos biogeoquímicos,Ecología
+Expert_023,Tema 4,Ciclos biogeoquímicos,Ecosistemas
+Expert_023,Tema 4,Ciclos biogeoquímicos,Evolución
+Expert_023,Tema 4,Ciclos biogeoquímicos,Geografia
+Expert_023,Tema 4,Ciclos biogeoquímicos,Oceanografía física
+Expert_023,Tema 4,Ecología,Ecosistemas
+Expert_023,Tema 4,Ecología,Evolución
+Expert_023,Tema 4,Ecología,Geografia
+Expert_023,Tema 4,Ecología,Oceanografía física
+Expert_023,Tema 4,Ecosistemas,Evolución
+Expert_023,Tema 4,Ecosistemas,Geografia
+Expert_023,Tema 4,Ecosistemas,Oceanografía física
+Expert_023,Tema 4,Evolución,Geografia
+Expert_023,Tema 4,Evolución,Oceanografía física
+Expert_023,Tema 4,Geografia,Oceanografía física
+Expert_024,-,NA,NA
+Expert_024,Tema 1,Amenazas humanas,Contaminación
+Expert_024,Tema 1,Amenazas humanas,Impactos del cambio climático
+Expert_024,Tema 1,Amenazas humanas,Resiliencia
+Expert_024,Tema 1,Amenazas humanas,Restauración ecológica
+Expert_024,Tema 1,Amenazas humanas,Servicios ecosistemicos
+Expert_024,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_024,Tema 1,Amenazas humanas,Valor cultural
+Expert_024,Tema 1,Contaminación,Impactos del cambio climático
+Expert_024,Tema 1,Contaminación,Resiliencia
+Expert_024,Tema 1,Contaminación,Restauración ecológica
+Expert_024,Tema 1,Contaminación,Servicios ecosistemicos
+Expert_024,Tema 1,Contaminación,Sustentabilidad
+Expert_024,Tema 1,Contaminación,Valor cultural
+Expert_024,Tema 1,Impactos del cambio climático,Resiliencia
+Expert_024,Tema 1,Impactos del cambio climático,Restauración ecológica
+Expert_024,Tema 1,Impactos del cambio climático,Servicios ecosistemicos
+Expert_024,Tema 1,Impactos del cambio climático,Sustentabilidad
+Expert_024,Tema 1,Impactos del cambio climático,Valor cultural
+Expert_024,Tema 1,Resiliencia,Restauración ecológica
+Expert_024,Tema 1,Resiliencia,Servicios ecosistemicos
+Expert_024,Tema 1,Resiliencia,Sustentabilidad
+Expert_024,Tema 1,Resiliencia,Valor cultural
+Expert_024,Tema 1,Restauración ecológica,Servicios ecosistemicos
+Expert_024,Tema 1,Restauración ecológica,Sustentabilidad
+Expert_024,Tema 1,Restauración ecológica,Valor cultural
+Expert_024,Tema 1,Servicios ecosistemicos,Sustentabilidad
+Expert_024,Tema 1,Servicios ecosistemicos,Valor cultural
+Expert_024,Tema 1,Sustentabilidad,Valor cultural
+Expert_024,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_024,Tema 2,Aspectos socio-económicos,Conciencia ambiental
+Expert_024,Tema 2,Aspectos socio-económicos,Conservación
+Expert_024,Tema 2,Aspectos socio-económicos,Ecología
+Expert_024,Tema 2,Aspectos socio-económicos,Pesquerias
+Expert_024,Tema 2,Bienestar humano,Conciencia ambiental
+Expert_024,Tema 2,Bienestar humano,Conservación
+Expert_024,Tema 2,Bienestar humano,Ecología
+Expert_024,Tema 2,Bienestar humano,Pesquerias
+Expert_024,Tema 2,Conciencia ambiental,Conservación
+Expert_024,Tema 2,Conciencia ambiental,Ecología
+Expert_024,Tema 2,Conciencia ambiental,Pesquerias
+Expert_024,Tema 2,Conservación,Ecología
+Expert_024,Tema 2,Conservación,Pesquerias
+Expert_024,Tema 2,Ecología,Pesquerias
+Expert_024,Tema 3,Biodiversidad,Ecosistemas
+Expert_024,Tema 3,Biodiversidad,Especies clave
+Expert_024,Tema 3,Biodiversidad,Evolución
+Expert_024,Tema 3,Biodiversidad,Productividad
+Expert_024,Tema 3,Biodiversidad,Regulación de la biodiversidad global
+Expert_024,Tema 3,Ecosistemas,Especies clave
+Expert_024,Tema 3,Ecosistemas,Evolución
+Expert_024,Tema 3,Ecosistemas,Productividad
+Expert_024,Tema 3,Ecosistemas,Regulación de la biodiversidad global
+Expert_024,Tema 3,Especies clave,Evolución
+Expert_024,Tema 3,Especies clave,Productividad
+Expert_024,Tema 3,Especies clave,Regulación de la biodiversidad global
+Expert_024,Tema 3,Evolución,Productividad
+Expert_024,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_024,Tema 3,Productividad,Regulación de la biodiversidad global
+Expert_025,Tema 1,Acoplamiento clima-océano,Geografia
+Expert_025,Tema 1,Acoplamiento clima-océano,Oceanografía física
+Expert_025,Tema 1,Geografia,Oceanografía física
+Expert_025,Tema 2,Amenazas humanas,Aspectos socio-económicos
+Expert_025,Tema 2,Amenazas humanas,Bienestar humano
+Expert_025,Tema 2,Amenazas humanas,Conciencia ambiental
+Expert_025,Tema 2,Amenazas humanas,Conservación
+Expert_025,Tema 2,Amenazas humanas,Servicios ecosistemicos
+Expert_025,Tema 2,Amenazas humanas,Sustentabilidad
+Expert_025,Tema 2,Amenazas humanas,Valor cultural
+Expert_025,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_025,Tema 2,Aspectos socio-económicos,Conciencia ambiental
+Expert_025,Tema 2,Aspectos socio-económicos,Conservación
+Expert_025,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_025,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_025,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_025,Tema 2,Bienestar humano,Conciencia ambiental
+Expert_025,Tema 2,Bienestar humano,Conservación
+Expert_025,Tema 2,Bienestar humano,Servicios ecosistemicos
+Expert_025,Tema 2,Bienestar humano,Sustentabilidad
+Expert_025,Tema 2,Bienestar humano,Valor cultural
+Expert_025,Tema 2,Conciencia ambiental,Conservación
+Expert_025,Tema 2,Conciencia ambiental,Servicios ecosistemicos
+Expert_025,Tema 2,Conciencia ambiental,Sustentabilidad
+Expert_025,Tema 2,Conciencia ambiental,Valor cultural
+Expert_025,Tema 2,Conservación,Servicios ecosistemicos
+Expert_025,Tema 2,Conservación,Sustentabilidad
+Expert_025,Tema 2,Conservación,Valor cultural
+Expert_025,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_025,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_025,Tema 2,Sustentabilidad,Valor cultural
+Expert_025,Tema 3,Biodiversidad,Ciclos biogeoquímicos
+Expert_025,Tema 3,Biodiversidad,Ecología
+Expert_025,Tema 3,Biodiversidad,Ecosistemas
+Expert_025,Tema 3,Biodiversidad,Especies clave
+Expert_025,Tema 3,Biodiversidad,Evolución
+Expert_025,Tema 3,Biodiversidad,Pesquerias
+Expert_025,Tema 3,Biodiversidad,Productividad
+Expert_025,Tema 3,Biodiversidad,Regulación de la biodiversidad global
+Expert_025,Tema 3,Biodiversidad,Resiliencia
+Expert_025,Tema 3,Biodiversidad,Restauración ecológica
+Expert_025,Tema 3,Ciclos biogeoquímicos,Ecología
+Expert_025,Tema 3,Ciclos biogeoquímicos,Ecosistemas
+Expert_025,Tema 3,Ciclos biogeoquímicos,Especies clave
+Expert_025,Tema 3,Ciclos biogeoquímicos,Evolución
+Expert_025,Tema 3,Ciclos biogeoquímicos,Pesquerias
+Expert_025,Tema 3,Ciclos biogeoquímicos,Productividad
+Expert_025,Tema 3,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_025,Tema 3,Ciclos biogeoquímicos,Resiliencia
+Expert_025,Tema 3,Ciclos biogeoquímicos,Restauración ecológica
+Expert_025,Tema 3,Ecología,Ecosistemas
+Expert_025,Tema 3,Ecología,Especies clave
+Expert_025,Tema 3,Ecología,Evolución
+Expert_025,Tema 3,Ecología,Pesquerias
+Expert_025,Tema 3,Ecología,Productividad
+Expert_025,Tema 3,Ecología,Regulación de la biodiversidad global
+Expert_025,Tema 3,Ecología,Resiliencia
+Expert_025,Tema 3,Ecología,Restauración ecológica
+Expert_025,Tema 3,Ecosistemas,Especies clave
+Expert_025,Tema 3,Ecosistemas,Evolución
+Expert_025,Tema 3,Ecosistemas,Pesquerias
+Expert_025,Tema 3,Ecosistemas,Productividad
+Expert_025,Tema 3,Ecosistemas,Regulación de la biodiversidad global
+Expert_025,Tema 3,Ecosistemas,Resiliencia
+Expert_025,Tema 3,Ecosistemas,Restauración ecológica
+Expert_025,Tema 3,Especies clave,Evolución
+Expert_025,Tema 3,Especies clave,Pesquerias
+Expert_025,Tema 3,Especies clave,Productividad
+Expert_025,Tema 3,Especies clave,Regulación de la biodiversidad global
+Expert_025,Tema 3,Especies clave,Resiliencia
+Expert_025,Tema 3,Especies clave,Restauración ecológica
+Expert_025,Tema 3,Evolución,Pesquerias
+Expert_025,Tema 3,Evolución,Productividad
+Expert_025,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_025,Tema 3,Evolución,Resiliencia
+Expert_025,Tema 3,Evolución,Restauración ecológica
+Expert_025,Tema 3,Pesquerias,Productividad
+Expert_025,Tema 3,Pesquerias,Regulación de la biodiversidad global
+Expert_025,Tema 3,Pesquerias,Resiliencia
+Expert_025,Tema 3,Pesquerias,Restauración ecológica
+Expert_025,Tema 3,Productividad,Regulación de la biodiversidad global
+Expert_025,Tema 3,Productividad,Resiliencia
+Expert_025,Tema 3,Productividad,Restauración ecológica
+Expert_025,Tema 3,Regulación de la biodiversidad global,Resiliencia
+Expert_025,Tema 3,Regulación de la biodiversidad global,Restauración ecológica
+Expert_025,Tema 3,Resiliencia,Restauración ecológica
+Expert_025,Tema 4,Contaminación,Impactos del cambio climático
+Expert_025,no procede,NA,NA
+Expert_026,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_026,Tema 1,Bienestar humano,Ecología
+Expert_026,Tema 1,Bienestar humano,Especies clave
+Expert_026,Tema 1,Bienestar humano,Evolución
+Expert_026,Tema 1,Bienestar humano,Geografia
+Expert_026,Tema 1,Conciencia ambiental,Ecología
+Expert_026,Tema 1,Conciencia ambiental,Especies clave
+Expert_026,Tema 1,Conciencia ambiental,Evolución
+Expert_026,Tema 1,Conciencia ambiental,Geografia
+Expert_026,Tema 1,Ecología,Especies clave
+Expert_026,Tema 1,Ecología,Evolución
+Expert_026,Tema 1,Ecología,Geografia
+Expert_026,Tema 1,Especies clave,Evolución
+Expert_026,Tema 1,Especies clave,Geografia
+Expert_026,Tema 1,Evolución,Geografia
+Expert_026,Tema 2,Acoplamiento clima-océano,Biodiversidad
+Expert_026,Tema 2,Acoplamiento clima-océano,Ciclos biogeoquímicos
+Expert_026,Tema 2,Acoplamiento clima-océano,Impactos del cambio climático
+Expert_026,Tema 2,Acoplamiento clima-océano,Oceanografía física
+Expert_026,Tema 2,Biodiversidad,Ciclos biogeoquímicos
+Expert_026,Tema 2,Biodiversidad,Impactos del cambio climático
+Expert_026,Tema 2,Biodiversidad,Oceanografía física
+Expert_026,Tema 2,Ciclos biogeoquímicos,Impactos del cambio climático
+Expert_026,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_026,Tema 2,Impactos del cambio climático,Oceanografía física
+Expert_026,Tema 3,Contaminación,Ecosistemas
+Expert_026,Tema 3,Contaminación,Pesquerias
+Expert_026,Tema 3,Contaminación,Productividad
+Expert_026,Tema 3,Contaminación,Regulación de la biodiversidad global
+Expert_026,Tema 3,Ecosistemas,Pesquerias
+Expert_026,Tema 3,Ecosistemas,Productividad
+Expert_026,Tema 3,Ecosistemas,Regulación de la biodiversidad global
+Expert_026,Tema 3,Pesquerias,Productividad
+Expert_026,Tema 3,Pesquerias,Regulación de la biodiversidad global
+Expert_026,Tema 3,Productividad,Regulación de la biodiversidad global
+Expert_026,Tema 4,Amenazas humanas,Aspectos socio-económicos
+Expert_026,Tema 4,Amenazas humanas,Conservación
+Expert_026,Tema 4,Amenazas humanas,Resiliencia
+Expert_026,Tema 4,Amenazas humanas,Restauración ecológica
+Expert_026,Tema 4,Amenazas humanas,Servicios ecosistemicos
+Expert_026,Tema 4,Amenazas humanas,Sustentabilidad
+Expert_026,Tema 4,Amenazas humanas,Valor cultural
+Expert_026,Tema 4,Aspectos socio-económicos,Conservación
+Expert_026,Tema 4,Aspectos socio-económicos,Resiliencia
+Expert_026,Tema 4,Aspectos socio-económicos,Restauración ecológica
+Expert_026,Tema 4,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_026,Tema 4,Aspectos socio-económicos,Sustentabilidad
+Expert_026,Tema 4,Aspectos socio-económicos,Valor cultural
+Expert_026,Tema 4,Conservación,Resiliencia
+Expert_026,Tema 4,Conservación,Restauración ecológica
+Expert_026,Tema 4,Conservación,Servicios ecosistemicos
+Expert_026,Tema 4,Conservación,Sustentabilidad
+Expert_026,Tema 4,Conservación,Valor cultural
+Expert_026,Tema 4,Resiliencia,Restauración ecológica
+Expert_026,Tema 4,Resiliencia,Servicios ecosistemicos
+Expert_026,Tema 4,Resiliencia,Sustentabilidad
+Expert_026,Tema 4,Resiliencia,Valor cultural
+Expert_026,Tema 4,Restauración ecológica,Servicios ecosistemicos
+Expert_026,Tema 4,Restauración ecológica,Sustentabilidad
+Expert_026,Tema 4,Restauración ecológica,Valor cultural
+Expert_026,Tema 4,Servicios ecosistemicos,Sustentabilidad
+Expert_026,Tema 4,Servicios ecosistemicos,Valor cultural
+Expert_026,Tema 4,Sustentabilidad,Valor cultural
+Expert_027,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_027,Tema 1,Amenazas humanas,Bienestar humano
+Expert_027,Tema 1,Amenazas humanas,Valor cultural
+Expert_027,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_027,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_027,Tema 1,Bienestar humano,Valor cultural
+Expert_027,Tema 2,Biodiversidad,Ciclos biogeoquímicos
+Expert_027,Tema 2,Biodiversidad,Ecología
+Expert_027,Tema 2,Biodiversidad,Ecosistemas
+Expert_027,Tema 2,Biodiversidad,Especies clave
+Expert_027,Tema 2,Biodiversidad,Evolución
+Expert_027,Tema 2,Biodiversidad,Geografia
+Expert_027,Tema 2,Biodiversidad,Oceanografía física
+Expert_027,Tema 2,Ciclos biogeoquímicos,Ecología
+Expert_027,Tema 2,Ciclos biogeoquímicos,Ecosistemas
+Expert_027,Tema 2,Ciclos biogeoquímicos,Especies clave
+Expert_027,Tema 2,Ciclos biogeoquímicos,Evolución
+Expert_027,Tema 2,Ciclos biogeoquímicos,Geografia
+Expert_027,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_027,Tema 2,Ecología,Ecosistemas
+Expert_027,Tema 2,Ecología,Especies clave
+Expert_027,Tema 2,Ecología,Evolución
+Expert_027,Tema 2,Ecología,Geografia
+Expert_027,Tema 2,Ecología,Oceanografía física
+Expert_027,Tema 2,Ecosistemas,Especies clave
+Expert_027,Tema 2,Ecosistemas,Evolución
+Expert_027,Tema 2,Ecosistemas,Geografia
+Expert_027,Tema 2,Ecosistemas,Oceanografía física
+Expert_027,Tema 2,Especies clave,Evolución
+Expert_027,Tema 2,Especies clave,Geografia
+Expert_027,Tema 2,Especies clave,Oceanografía física
+Expert_027,Tema 2,Evolución,Geografia
+Expert_027,Tema 2,Evolución,Oceanografía física
+Expert_027,Tema 2,Geografia,Oceanografía física
+Expert_027,Tema 3,Conciencia ambiental,Conservación
+Expert_027,Tema 3,Conciencia ambiental,Contaminación
+Expert_027,Tema 3,Conciencia ambiental,Pesquerias
+Expert_027,Tema 3,Conciencia ambiental,Restauración ecológica
+Expert_027,Tema 3,Conciencia ambiental,Sustentabilidad
+Expert_027,Tema 3,Conservación,Contaminación
+Expert_027,Tema 3,Conservación,Pesquerias
+Expert_027,Tema 3,Conservación,Restauración ecológica
+Expert_027,Tema 3,Conservación,Sustentabilidad
+Expert_027,Tema 3,Contaminación,Pesquerias
+Expert_027,Tema 3,Contaminación,Restauración ecológica
+Expert_027,Tema 3,Contaminación,Sustentabilidad
+Expert_027,Tema 3,Pesquerias,Restauración ecológica
+Expert_027,Tema 3,Pesquerias,Sustentabilidad
+Expert_027,Tema 3,Restauración ecológica,Sustentabilidad
+Expert_027,Tema 4,Acoplamiento clima-océano,Impactos del cambio climático
+Expert_027,Tema 4,Acoplamiento clima-océano,Resiliencia
+Expert_027,Tema 4,Acoplamiento clima-océano,Servicios ecosistemicos
+Expert_027,Tema 4,Impactos del cambio climático,Resiliencia
+Expert_027,Tema 4,Impactos del cambio climático,Servicios ecosistemicos
+Expert_027,Tema 4,Resiliencia,Servicios ecosistemicos

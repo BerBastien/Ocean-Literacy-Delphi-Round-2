@@ -1,0 +1,1266 @@
+Expert_ID,theme,from,to
+Expert_001,Tema 1,Amenazas humanas,Cambio climático
+Expert_001,Tema 1,Amenazas humanas,Contaminación
+Expert_001,Tema 1,Amenazas humanas,Regulación climática
+Expert_001,Tema 1,Cambio climático,Contaminación
+Expert_001,Tema 1,Cambio climático,Regulación climática
+Expert_001,Tema 1,Contaminación,Regulación climática
+Expert_001,Tema 2,Biodiversidad,Conservación
+Expert_001,Tema 2,Biodiversidad,Especies clave
+Expert_001,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_001,Tema 2,Biodiversidad,Servicios ecosistemicos
+Expert_001,Tema 2,Biodiversidad,Sustentabilidad
+Expert_001,Tema 2,Conservación,Especies clave
+Expert_001,Tema 2,Conservación,Regulación de la biodiversidad global
+Expert_001,Tema 2,Conservación,Servicios ecosistemicos
+Expert_001,Tema 2,Conservación,Sustentabilidad
+Expert_001,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_001,Tema 2,Especies clave,Servicios ecosistemicos
+Expert_001,Tema 2,Especies clave,Sustentabilidad
+Expert_001,Tema 2,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_001,Tema 2,Regulación de la biodiversidad global,Sustentabilidad
+Expert_001,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_001,Tema 3,Ciclos biogeoquímicos,Ciencias marinas
+Expert_001,Tema 3,Ciclos biogeoquímicos,Dinámica costera
+Expert_001,Tema 3,Ciclos biogeoquímicos,Geografia
+Expert_001,Tema 3,Ciclos biogeoquímicos,Oceanografía física
+Expert_001,Tema 3,Ciencias marinas,Dinámica costera
+Expert_001,Tema 3,Ciencias marinas,Geografia
+Expert_001,Tema 3,Ciencias marinas,Oceanografía física
+Expert_001,Tema 3,Dinámica costera,Geografia
+Expert_001,Tema 3,Dinámica costera,Oceanografía física
+Expert_001,Tema 3,Geografia,Oceanografía física
+Expert_001,Tema 4,Aspectos socio-económicos,Bienestar humano
+Expert_001,Tema 4,Aspectos socio-económicos,Conciencia ambiental
+Expert_001,Tema 4,Aspectos socio-económicos,Valor cultural
+Expert_001,Tema 4,Bienestar humano,Conciencia ambiental
+Expert_001,Tema 4,Bienestar humano,Valor cultural
+Expert_001,Tema 4,Conciencia ambiental,Valor cultural
+Expert_002,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_002,Tema 1,Amenazas humanas,Bienestar humano
+Expert_002,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_002,Tema 1,Amenazas humanas,Conservación
+Expert_002,Tema 1,Amenazas humanas,Contaminación
+Expert_002,Tema 1,Amenazas humanas,Valor cultural
+Expert_002,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_002,Tema 1,Aspectos socio-económicos,Conciencia ambiental
+Expert_002,Tema 1,Aspectos socio-económicos,Conservación
+Expert_002,Tema 1,Aspectos socio-económicos,Contaminación
+Expert_002,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_002,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_002,Tema 1,Bienestar humano,Conservación
+Expert_002,Tema 1,Bienestar humano,Contaminación
+Expert_002,Tema 1,Bienestar humano,Valor cultural
+Expert_002,Tema 1,Conciencia ambiental,Conservación
+Expert_002,Tema 1,Conciencia ambiental,Contaminación
+Expert_002,Tema 1,Conciencia ambiental,Valor cultural
+Expert_002,Tema 1,Conservación,Contaminación
+Expert_002,Tema 1,Conservación,Valor cultural
+Expert_002,Tema 1,Contaminación,Valor cultural
+Expert_002,Tema 2,Biodiversidad,Especies clave
+Expert_002,Tema 2,Biodiversidad,Evolución
+Expert_002,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_002,Tema 2,Biodiversidad,Servicios ecosistemicos
+Expert_002,Tema 2,Biodiversidad,Sustentabilidad
+Expert_002,Tema 2,Especies clave,Evolución
+Expert_002,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_002,Tema 2,Especies clave,Servicios ecosistemicos
+Expert_002,Tema 2,Especies clave,Sustentabilidad
+Expert_002,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_002,Tema 2,Evolución,Servicios ecosistemicos
+Expert_002,Tema 2,Evolución,Sustentabilidad
+Expert_002,Tema 2,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_002,Tema 2,Regulación de la biodiversidad global,Sustentabilidad
+Expert_002,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_002,Tema 3,Cambio climático,Ciclos biogeoquímicos
+Expert_002,Tema 3,Cambio climático,Ciencias marinas
+Expert_002,Tema 3,Cambio climático,Dinámica costera
+Expert_002,Tema 3,Cambio climático,Geografia
+Expert_002,Tema 3,Cambio climático,Oceanografía física
+Expert_002,Tema 3,Cambio climático,Regulación climática
+Expert_002,Tema 3,Ciclos biogeoquímicos,Ciencias marinas
+Expert_002,Tema 3,Ciclos biogeoquímicos,Dinámica costera
+Expert_002,Tema 3,Ciclos biogeoquímicos,Geografia
+Expert_002,Tema 3,Ciclos biogeoquímicos,Oceanografía física
+Expert_002,Tema 3,Ciclos biogeoquímicos,Regulación climática
+Expert_002,Tema 3,Ciencias marinas,Dinámica costera
+Expert_002,Tema 3,Ciencias marinas,Geografia
+Expert_002,Tema 3,Ciencias marinas,Oceanografía física
+Expert_002,Tema 3,Ciencias marinas,Regulación climática
+Expert_002,Tema 3,Dinámica costera,Geografia
+Expert_002,Tema 3,Dinámica costera,Oceanografía física
+Expert_002,Tema 3,Dinámica costera,Regulación climática
+Expert_002,Tema 3,Geografia,Oceanografía física
+Expert_002,Tema 3,Geografia,Regulación climática
+Expert_002,Tema 3,Oceanografía física,Regulación climática
+Expert_002,X,NA,NA
+Expert_003,No,NA,NA
+Expert_003,Tema 1,Amenazas humanas,Bienestar humano
+Expert_003,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_003,Tema 1,Amenazas humanas,Contaminación
+Expert_003,Tema 1,Amenazas humanas,Regulación climática
+Expert_003,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_003,Tema 1,Amenazas humanas,Valor cultural
+Expert_003,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_003,Tema 1,Bienestar humano,Contaminación
+Expert_003,Tema 1,Bienestar humano,Regulación climática
+Expert_003,Tema 1,Bienestar humano,Sustentabilidad
+Expert_003,Tema 1,Bienestar humano,Valor cultural
+Expert_003,Tema 1,Conciencia ambiental,Contaminación
+Expert_003,Tema 1,Conciencia ambiental,Regulación climática
+Expert_003,Tema 1,Conciencia ambiental,Sustentabilidad
+Expert_003,Tema 1,Conciencia ambiental,Valor cultural
+Expert_003,Tema 1,Contaminación,Regulación climática
+Expert_003,Tema 1,Contaminación,Sustentabilidad
+Expert_003,Tema 1,Contaminación,Valor cultural
+Expert_003,Tema 1,Regulación climática,Sustentabilidad
+Expert_003,Tema 1,Regulación climática,Valor cultural
+Expert_003,Tema 1,Sustentabilidad,Valor cultural
+Expert_003,Tema 2,Biodiversidad,Ciclos biogeoquímicos
+Expert_003,Tema 2,Biodiversidad,Ciencias marinas
+Expert_003,Tema 2,Biodiversidad,Conservación
+Expert_003,Tema 2,Biodiversidad,Dinámica costera
+Expert_003,Tema 2,Biodiversidad,Especies clave
+Expert_003,Tema 2,Biodiversidad,Evolución
+Expert_003,Tema 2,Biodiversidad,Oceanografía física
+Expert_003,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_003,Tema 2,Biodiversidad,Servicios ecosistemicos
+Expert_003,Tema 2,Ciclos biogeoquímicos,Ciencias marinas
+Expert_003,Tema 2,Ciclos biogeoquímicos,Conservación
+Expert_003,Tema 2,Ciclos biogeoquímicos,Dinámica costera
+Expert_003,Tema 2,Ciclos biogeoquímicos,Especies clave
+Expert_003,Tema 2,Ciclos biogeoquímicos,Evolución
+Expert_003,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_003,Tema 2,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_003,Tema 2,Ciclos biogeoquímicos,Servicios ecosistemicos
+Expert_003,Tema 2,Ciencias marinas,Conservación
+Expert_003,Tema 2,Ciencias marinas,Dinámica costera
+Expert_003,Tema 2,Ciencias marinas,Especies clave
+Expert_003,Tema 2,Ciencias marinas,Evolución
+Expert_003,Tema 2,Ciencias marinas,Oceanografía física
+Expert_003,Tema 2,Ciencias marinas,Regulación de la biodiversidad global
+Expert_003,Tema 2,Ciencias marinas,Servicios ecosistemicos
+Expert_003,Tema 2,Conservación,Dinámica costera
+Expert_003,Tema 2,Conservación,Especies clave
+Expert_003,Tema 2,Conservación,Evolución
+Expert_003,Tema 2,Conservación,Oceanografía física
+Expert_003,Tema 2,Conservación,Regulación de la biodiversidad global
+Expert_003,Tema 2,Conservación,Servicios ecosistemicos
+Expert_003,Tema 2,Dinámica costera,Especies clave
+Expert_003,Tema 2,Dinámica costera,Evolución
+Expert_003,Tema 2,Dinámica costera,Oceanografía física
+Expert_003,Tema 2,Dinámica costera,Regulación de la biodiversidad global
+Expert_003,Tema 2,Dinámica costera,Servicios ecosistemicos
+Expert_003,Tema 2,Especies clave,Evolución
+Expert_003,Tema 2,Especies clave,Oceanografía física
+Expert_003,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_003,Tema 2,Especies clave,Servicios ecosistemicos
+Expert_003,Tema 2,Evolución,Oceanografía física
+Expert_003,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_003,Tema 2,Evolución,Servicios ecosistemicos
+Expert_003,Tema 2,Oceanografía física,Regulación de la biodiversidad global
+Expert_003,Tema 2,Oceanografía física,Servicios ecosistemicos
+Expert_003,Tema 2,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_003,Tema 3,Aspectos socio-económicos,Cambio climático
+Expert_003,Tema 3,Aspectos socio-económicos,Geografia
+Expert_003,Tema 3,Cambio climático,Geografia
+Expert_004,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_004,Tema 1,Amenazas humanas,Bienestar humano
+Expert_004,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_004,Tema 2,Ciclos biogeoquímicos,Dinámica costera
+Expert_004,Tema 2,Ciclos biogeoquímicos,Regulación climática
+Expert_004,Tema 2,Dinámica costera,Regulación climática
+Expert_004,Tema 3,Biodiversidad,Cambio climático
+Expert_004,Tema 3,Biodiversidad,Conservación
+Expert_004,Tema 3,Biodiversidad,Especies clave
+Expert_004,Tema 3,Biodiversidad,Evolución
+Expert_004,Tema 3,Biodiversidad,Regulación de la biodiversidad global
+Expert_004,Tema 3,Biodiversidad,Servicios ecosistemicos
+Expert_004,Tema 3,Biodiversidad,Sustentabilidad
+Expert_004,Tema 3,Cambio climático,Conservación
+Expert_004,Tema 3,Cambio climático,Especies clave
+Expert_004,Tema 3,Cambio climático,Evolución
+Expert_004,Tema 3,Cambio climático,Regulación de la biodiversidad global
+Expert_004,Tema 3,Cambio climático,Servicios ecosistemicos
+Expert_004,Tema 3,Cambio climático,Sustentabilidad
+Expert_004,Tema 3,Conservación,Especies clave
+Expert_004,Tema 3,Conservación,Evolución
+Expert_004,Tema 3,Conservación,Regulación de la biodiversidad global
+Expert_004,Tema 3,Conservación,Servicios ecosistemicos
+Expert_004,Tema 3,Conservación,Sustentabilidad
+Expert_004,Tema 3,Especies clave,Evolución
+Expert_004,Tema 3,Especies clave,Regulación de la biodiversidad global
+Expert_004,Tema 3,Especies clave,Servicios ecosistemicos
+Expert_004,Tema 3,Especies clave,Sustentabilidad
+Expert_004,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_004,Tema 3,Evolución,Servicios ecosistemicos
+Expert_004,Tema 3,Evolución,Sustentabilidad
+Expert_004,Tema 3,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_004,Tema 3,Regulación de la biodiversidad global,Sustentabilidad
+Expert_004,Tema 3,Servicios ecosistemicos,Sustentabilidad
+Expert_004,Tema 4,Ciencias marinas,Conciencia ambiental
+Expert_004,Tema 4,Ciencias marinas,Valor cultural
+Expert_004,Tema 4,Conciencia ambiental,Valor cultural
+Expert_004,Tema 5,Contaminación,Geografia
+Expert_004,Tema 5,Contaminación,Oceanografía física
+Expert_004,Tema 5,Geografia,Oceanografía física
+Expert_005,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_005,Tema 1,Amenazas humanas,Bienestar humano
+Expert_005,Tema 1,Amenazas humanas,Contaminación
+Expert_005,Tema 1,Amenazas humanas,Geografia
+Expert_005,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_005,Tema 1,Aspectos socio-económicos,Contaminación
+Expert_005,Tema 1,Aspectos socio-económicos,Geografia
+Expert_005,Tema 1,Bienestar humano,Contaminación
+Expert_005,Tema 1,Bienestar humano,Geografia
+Expert_005,Tema 1,Contaminación,Geografia
+Expert_005,Tema 2,Biodiversidad,Ciencias marinas
+Expert_005,Tema 2,Biodiversidad,Dinámica costera
+Expert_005,Tema 2,Biodiversidad,Especies clave
+Expert_005,Tema 2,Biodiversidad,Evolución
+Expert_005,Tema 2,Biodiversidad,Oceanografía física
+Expert_005,Tema 2,Ciencias marinas,Dinámica costera
+Expert_005,Tema 2,Ciencias marinas,Especies clave
+Expert_005,Tema 2,Ciencias marinas,Evolución
+Expert_005,Tema 2,Ciencias marinas,Oceanografía física
+Expert_005,Tema 2,Dinámica costera,Especies clave
+Expert_005,Tema 2,Dinámica costera,Evolución
+Expert_005,Tema 2,Dinámica costera,Oceanografía física
+Expert_005,Tema 2,Especies clave,Evolución
+Expert_005,Tema 2,Especies clave,Oceanografía física
+Expert_005,Tema 2,Evolución,Oceanografía física
+Expert_005,Tema 3,Cambio climático,Ciclos biogeoquímicos
+Expert_005,Tema 3,Cambio climático,Regulación climática
+Expert_005,Tema 3,Ciclos biogeoquímicos,Regulación climática
+Expert_005,Tema 4,Conciencia ambiental,Conservación
+Expert_005,Tema 4,Conciencia ambiental,Regulación de la biodiversidad global
+Expert_005,Tema 4,Conciencia ambiental,Servicios ecosistemicos
+Expert_005,Tema 4,Conciencia ambiental,Sustentabilidad
+Expert_005,Tema 4,Conciencia ambiental,Valor cultural
+Expert_005,Tema 4,Conservación,Regulación de la biodiversidad global
+Expert_005,Tema 4,Conservación,Servicios ecosistemicos
+Expert_005,Tema 4,Conservación,Sustentabilidad
+Expert_005,Tema 4,Conservación,Valor cultural
+Expert_005,Tema 4,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_005,Tema 4,Regulación de la biodiversidad global,Sustentabilidad
+Expert_005,Tema 4,Regulación de la biodiversidad global,Valor cultural
+Expert_005,Tema 4,Servicios ecosistemicos,Sustentabilidad
+Expert_005,Tema 4,Servicios ecosistemicos,Valor cultural
+Expert_005,Tema 4,Sustentabilidad,Valor cultural
+Expert_006,Tema 1,Amenazas humanas,Biodiversidad
+Expert_006,Tema 1,Amenazas humanas,Conservación
+Expert_006,Tema 1,Amenazas humanas,Contaminación
+Expert_006,Tema 1,Amenazas humanas,Especies clave
+Expert_006,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_006,Tema 1,Biodiversidad,Conservación
+Expert_006,Tema 1,Biodiversidad,Contaminación
+Expert_006,Tema 1,Biodiversidad,Especies clave
+Expert_006,Tema 1,Biodiversidad,Sustentabilidad
+Expert_006,Tema 1,Conservación,Contaminación
+Expert_006,Tema 1,Conservación,Especies clave
+Expert_006,Tema 1,Conservación,Sustentabilidad
+Expert_006,Tema 1,Contaminación,Especies clave
+Expert_006,Tema 1,Contaminación,Sustentabilidad
+Expert_006,Tema 1,Especies clave,Sustentabilidad
+Expert_006,Tema 2,Cambio climático,Ciencias marinas
+Expert_006,Tema 2,Cambio climático,Regulación climática
+Expert_006,Tema 2,Cambio climático,Regulación de la biodiversidad global
+Expert_006,Tema 2,Ciencias marinas,Regulación climática
+Expert_006,Tema 2,Ciencias marinas,Regulación de la biodiversidad global
+Expert_006,Tema 2,Regulación climática,Regulación de la biodiversidad global
+Expert_006,Tema 3,Aspectos socio-económicos,Bienestar humano
+Expert_006,Tema 3,Aspectos socio-económicos,Conciencia ambiental
+Expert_006,Tema 3,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_006,Tema 3,Aspectos socio-económicos,Valor cultural
+Expert_006,Tema 3,Bienestar humano,Conciencia ambiental
+Expert_006,Tema 3,Bienestar humano,Servicios ecosistemicos
+Expert_006,Tema 3,Bienestar humano,Valor cultural
+Expert_006,Tema 3,Conciencia ambiental,Servicios ecosistemicos
+Expert_006,Tema 3,Conciencia ambiental,Valor cultural
+Expert_006,Tema 3,Servicios ecosistemicos,Valor cultural
+Expert_006,Tema 4,Ciclos biogeoquímicos,Dinámica costera
+Expert_006,Tema 4,Ciclos biogeoquímicos,Geografia
+Expert_006,Tema 4,Ciclos biogeoquímicos,Oceanografía física
+Expert_006,Tema 4,Dinámica costera,Geografia
+Expert_006,Tema 4,Dinámica costera,Oceanografía física
+Expert_006,Tema 4,Geografia,Oceanografía física
+Expert_007,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_007,Tema 1,Amenazas humanas,Bienestar humano
+Expert_007,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_007,Tema 1,Amenazas humanas,Contaminación
+Expert_007,Tema 1,Amenazas humanas,Servicios ecosistemicos
+Expert_007,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_007,Tema 1,Amenazas humanas,Valor cultural
+Expert_007,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_007,Tema 1,Aspectos socio-económicos,Conciencia ambiental
+Expert_007,Tema 1,Aspectos socio-económicos,Contaminación
+Expert_007,Tema 1,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_007,Tema 1,Aspectos socio-económicos,Sustentabilidad
+Expert_007,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_007,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_007,Tema 1,Bienestar humano,Contaminación
+Expert_007,Tema 1,Bienestar humano,Servicios ecosistemicos
+Expert_007,Tema 1,Bienestar humano,Sustentabilidad
+Expert_007,Tema 1,Bienestar humano,Valor cultural
+Expert_007,Tema 1,Conciencia ambiental,Contaminación
+Expert_007,Tema 1,Conciencia ambiental,Servicios ecosistemicos
+Expert_007,Tema 1,Conciencia ambiental,Sustentabilidad
+Expert_007,Tema 1,Conciencia ambiental,Valor cultural
+Expert_007,Tema 1,Contaminación,Servicios ecosistemicos
+Expert_007,Tema 1,Contaminación,Sustentabilidad
+Expert_007,Tema 1,Contaminación,Valor cultural
+Expert_007,Tema 1,Servicios ecosistemicos,Sustentabilidad
+Expert_007,Tema 1,Servicios ecosistemicos,Valor cultural
+Expert_007,Tema 1,Sustentabilidad,Valor cultural
+Expert_007,Tema 2,Biodiversidad,Ciclos biogeoquímicos
+Expert_007,Tema 2,Biodiversidad,Ciencias marinas
+Expert_007,Tema 2,Biodiversidad,Conservación
+Expert_007,Tema 2,Biodiversidad,Especies clave
+Expert_007,Tema 2,Biodiversidad,Evolución
+Expert_007,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_007,Tema 2,Ciclos biogeoquímicos,Ciencias marinas
+Expert_007,Tema 2,Ciclos biogeoquímicos,Conservación
+Expert_007,Tema 2,Ciclos biogeoquímicos,Especies clave
+Expert_007,Tema 2,Ciclos biogeoquímicos,Evolución
+Expert_007,Tema 2,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_007,Tema 2,Ciencias marinas,Conservación
+Expert_007,Tema 2,Ciencias marinas,Especies clave
+Expert_007,Tema 2,Ciencias marinas,Evolución
+Expert_007,Tema 2,Ciencias marinas,Regulación de la biodiversidad global
+Expert_007,Tema 2,Conservación,Especies clave
+Expert_007,Tema 2,Conservación,Evolución
+Expert_007,Tema 2,Conservación,Regulación de la biodiversidad global
+Expert_007,Tema 2,Especies clave,Evolución
+Expert_007,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_007,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_007,Tema 3,Cambio climático,Dinámica costera
+Expert_007,Tema 3,Cambio climático,Geografia
+Expert_007,Tema 3,Cambio climático,Oceanografía física
+Expert_007,Tema 3,Cambio climático,Regulación climática
+Expert_007,Tema 3,Dinámica costera,Geografia
+Expert_007,Tema 3,Dinámica costera,Oceanografía física
+Expert_007,Tema 3,Dinámica costera,Regulación climática
+Expert_007,Tema 3,Geografia,Oceanografía física
+Expert_007,Tema 3,Geografia,Regulación climática
+Expert_007,Tema 3,Oceanografía física,Regulación climática
+Expert_007,no es necesario,NA,NA
+Expert_008,Tema 1,Ciclos biogeoquímicos,Ciencias marinas
+Expert_008,Tema 1,Ciclos biogeoquímicos,Dinámica costera
+Expert_008,Tema 1,Ciclos biogeoquímicos,Especies clave
+Expert_008,Tema 1,Ciclos biogeoquímicos,Geografia
+Expert_008,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_008,Tema 1,Ciencias marinas,Dinámica costera
+Expert_008,Tema 1,Ciencias marinas,Especies clave
+Expert_008,Tema 1,Ciencias marinas,Geografia
+Expert_008,Tema 1,Ciencias marinas,Oceanografía física
+Expert_008,Tema 1,Dinámica costera,Especies clave
+Expert_008,Tema 1,Dinámica costera,Geografia
+Expert_008,Tema 1,Dinámica costera,Oceanografía física
+Expert_008,Tema 1,Especies clave,Geografia
+Expert_008,Tema 1,Especies clave,Oceanografía física
+Expert_008,Tema 1,Geografia,Oceanografía física
+Expert_008,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_008,Tema 2,Aspectos socio-económicos,Conciencia ambiental
+Expert_008,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_008,Tema 2,Bienestar humano,Conciencia ambiental
+Expert_008,Tema 2,Bienestar humano,Valor cultural
+Expert_008,Tema 2,Conciencia ambiental,Valor cultural
+Expert_008,Tema 3,Amenazas humanas,Cambio climático
+Expert_008,Tema 3,Amenazas humanas,Contaminación
+Expert_008,Tema 3,Cambio climático,Contaminación
+Expert_008,Tema 4,Biodiversidad,Evolución
+Expert_008,Tema 4,Biodiversidad,Servicios ecosistemicos
+Expert_008,Tema 4,Evolución,Servicios ecosistemicos
+Expert_008,Tema 5,Regulación climática,Regulación de la biodiversidad global
+Expert_009,Tema 1,Biodiversidad,Cambio climático
+Expert_009,Tema 1,Biodiversidad,Regulación climática
+Expert_009,Tema 1,Biodiversidad,Regulación de la biodiversidad global
+Expert_009,Tema 1,Cambio climático,Regulación climática
+Expert_009,Tema 1,Cambio climático,Regulación de la biodiversidad global
+Expert_009,Tema 1,Regulación climática,Regulación de la biodiversidad global
+Expert_009,Tema 2,Amenazas humanas,Conservación
+Expert_009,Tema 2,Amenazas humanas,Contaminación
+Expert_009,Tema 2,Amenazas humanas,Especies clave
+Expert_009,Tema 2,Conservación,Contaminación
+Expert_009,Tema 2,Conservación,Especies clave
+Expert_009,Tema 2,Contaminación,Especies clave
+Expert_009,Tema 3,Aspectos socio-económicos,Bienestar humano
+Expert_009,Tema 3,Aspectos socio-económicos,Valor cultural
+Expert_009,Tema 3,Bienestar humano,Valor cultural
+Expert_009,Tema 4,Ciclos biogeoquímicos,Ciencias marinas
+Expert_009,Tema 4,Ciclos biogeoquímicos,Dinámica costera
+Expert_009,Tema 4,Ciclos biogeoquímicos,Evolución
+Expert_009,Tema 4,Ciclos biogeoquímicos,Geografia
+Expert_009,Tema 4,Ciclos biogeoquímicos,Oceanografía física
+Expert_009,Tema 4,Ciencias marinas,Dinámica costera
+Expert_009,Tema 4,Ciencias marinas,Evolución
+Expert_009,Tema 4,Ciencias marinas,Geografia
+Expert_009,Tema 4,Ciencias marinas,Oceanografía física
+Expert_009,Tema 4,Dinámica costera,Evolución
+Expert_009,Tema 4,Dinámica costera,Geografia
+Expert_009,Tema 4,Dinámica costera,Oceanografía física
+Expert_009,Tema 4,Evolución,Geografia
+Expert_009,Tema 4,Evolución,Oceanografía física
+Expert_009,Tema 4,Geografia,Oceanografía física
+Expert_009,Tema 5,Conciencia ambiental,Servicios ecosistemicos
+Expert_009,Tema 5,Conciencia ambiental,Sustentabilidad
+Expert_009,Tema 5,Servicios ecosistemicos,Sustentabilidad
+Expert_010,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_010,Tema 4,Biodiversidad,Cambio climático
+Expert_010,Tema 4,Biodiversidad,Ciclos biogeoquímicos
+Expert_010,Tema 4,Biodiversidad,Conservación
+Expert_010,Tema 4,Biodiversidad,Contaminación
+Expert_010,Tema 4,Biodiversidad,Dinámica costera
+Expert_010,Tema 4,Biodiversidad,Especies clave
+Expert_010,Tema 4,Biodiversidad,Evolución
+Expert_010,Tema 4,Biodiversidad,Regulación climática
+Expert_010,Tema 4,Biodiversidad,Regulación de la biodiversidad global
+Expert_010,Tema 4,Biodiversidad,Sustentabilidad
+Expert_010,Tema 4,Cambio climático,Ciclos biogeoquímicos
+Expert_010,Tema 4,Cambio climático,Conservación
+Expert_010,Tema 4,Cambio climático,Contaminación
+Expert_010,Tema 4,Cambio climático,Dinámica costera
+Expert_010,Tema 4,Cambio climático,Especies clave
+Expert_010,Tema 4,Cambio climático,Evolución
+Expert_010,Tema 4,Cambio climático,Regulación climática
+Expert_010,Tema 4,Cambio climático,Regulación de la biodiversidad global
+Expert_010,Tema 4,Cambio climático,Sustentabilidad
+Expert_010,Tema 4,Ciclos biogeoquímicos,Conservación
+Expert_010,Tema 4,Ciclos biogeoquímicos,Contaminación
+Expert_010,Tema 4,Ciclos biogeoquímicos,Dinámica costera
+Expert_010,Tema 4,Ciclos biogeoquímicos,Especies clave
+Expert_010,Tema 4,Ciclos biogeoquímicos,Evolución
+Expert_010,Tema 4,Ciclos biogeoquímicos,Regulación climática
+Expert_010,Tema 4,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_010,Tema 4,Ciclos biogeoquímicos,Sustentabilidad
+Expert_010,Tema 4,Conservación,Contaminación
+Expert_010,Tema 4,Conservación,Dinámica costera
+Expert_010,Tema 4,Conservación,Especies clave
+Expert_010,Tema 4,Conservación,Evolución
+Expert_010,Tema 4,Conservación,Regulación climática
+Expert_010,Tema 4,Conservación,Regulación de la biodiversidad global
+Expert_010,Tema 4,Conservación,Sustentabilidad
+Expert_010,Tema 4,Contaminación,Dinámica costera
+Expert_010,Tema 4,Contaminación,Especies clave
+Expert_010,Tema 4,Contaminación,Evolución
+Expert_010,Tema 4,Contaminación,Regulación climática
+Expert_010,Tema 4,Contaminación,Regulación de la biodiversidad global
+Expert_010,Tema 4,Contaminación,Sustentabilidad
+Expert_010,Tema 4,Dinámica costera,Especies clave
+Expert_010,Tema 4,Dinámica costera,Evolución
+Expert_010,Tema 4,Dinámica costera,Regulación climática
+Expert_010,Tema 4,Dinámica costera,Regulación de la biodiversidad global
+Expert_010,Tema 4,Dinámica costera,Sustentabilidad
+Expert_010,Tema 4,Especies clave,Evolución
+Expert_010,Tema 4,Especies clave,Regulación climática
+Expert_010,Tema 4,Especies clave,Regulación de la biodiversidad global
+Expert_010,Tema 4,Especies clave,Sustentabilidad
+Expert_010,Tema 4,Evolución,Regulación climática
+Expert_010,Tema 4,Evolución,Regulación de la biodiversidad global
+Expert_010,Tema 4,Evolución,Sustentabilidad
+Expert_010,Tema 4,Regulación climática,Regulación de la biodiversidad global
+Expert_010,Tema 4,Regulación climática,Sustentabilidad
+Expert_010,Tema 4,Regulación de la biodiversidad global,Sustentabilidad
+Expert_010,Tema 5,Bienestar humano,Ciencias marinas
+Expert_010,Tema 5,Bienestar humano,Geografia
+Expert_010,Tema 5,Bienestar humano,Oceanografía física
+Expert_010,Tema 5,Bienestar humano,Valor cultural
+Expert_010,Tema 5,Ciencias marinas,Geografia
+Expert_010,Tema 5,Ciencias marinas,Oceanografía física
+Expert_010,Tema 5,Ciencias marinas,Valor cultural
+Expert_010,Tema 5,Geografia,Oceanografía física
+Expert_010,Tema 5,Geografia,Valor cultural
+Expert_010,Tema 5,Oceanografía física,Valor cultural
+Expert_011,Tema 1,Ciclos biogeoquímicos,Dinámica costera
+Expert_011,Tema 1,Ciclos biogeoquímicos,Geografia
+Expert_011,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_011,Tema 1,Ciclos biogeoquímicos,Regulación climática
+Expert_011,Tema 1,Dinámica costera,Geografia
+Expert_011,Tema 1,Dinámica costera,Oceanografía física
+Expert_011,Tema 1,Dinámica costera,Regulación climática
+Expert_011,Tema 1,Geografia,Oceanografía física
+Expert_011,Tema 1,Geografia,Regulación climática
+Expert_011,Tema 1,Oceanografía física,Regulación climática
+Expert_011,Tema 2,Biodiversidad,Conservación
+Expert_011,Tema 2,Biodiversidad,Especies clave
+Expert_011,Tema 2,Biodiversidad,Evolución
+Expert_011,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_011,Tema 2,Conservación,Especies clave
+Expert_011,Tema 2,Conservación,Evolución
+Expert_011,Tema 2,Conservación,Regulación de la biodiversidad global
+Expert_011,Tema 2,Especies clave,Evolución
+Expert_011,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_011,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_011,Tema 3,Amenazas humanas,Cambio climático
+Expert_011,Tema 3,Amenazas humanas,Contaminación
+Expert_011,Tema 3,Cambio climático,Contaminación
+Expert_011,Tema 5,Aspectos socio-económicos,Bienestar humano
+Expert_011,Tema 5,Aspectos socio-económicos,Conciencia ambiental
+Expert_011,Tema 5,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_011,Tema 5,Aspectos socio-económicos,Sustentabilidad
+Expert_011,Tema 5,Aspectos socio-económicos,Valor cultural
+Expert_011,Tema 5,Bienestar humano,Conciencia ambiental
+Expert_011,Tema 5,Bienestar humano,Servicios ecosistemicos
+Expert_011,Tema 5,Bienestar humano,Sustentabilidad
+Expert_011,Tema 5,Bienestar humano,Valor cultural
+Expert_011,Tema 5,Conciencia ambiental,Servicios ecosistemicos
+Expert_011,Tema 5,Conciencia ambiental,Sustentabilidad
+Expert_011,Tema 5,Conciencia ambiental,Valor cultural
+Expert_011,Tema 5,Servicios ecosistemicos,Sustentabilidad
+Expert_011,Tema 5,Servicios ecosistemicos,Valor cultural
+Expert_011,Tema 5,Sustentabilidad,Valor cultural
+Expert_012,Tema 1,Amenazas humanas,Cambio climático
+Expert_012,Tema 1,Amenazas humanas,Ciclos biogeoquímicos
+Expert_012,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_012,Tema 1,Amenazas humanas,Contaminación
+Expert_012,Tema 1,Amenazas humanas,Regulación climática
+Expert_012,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_012,Tema 1,Cambio climático,Ciclos biogeoquímicos
+Expert_012,Tema 1,Cambio climático,Conciencia ambiental
+Expert_012,Tema 1,Cambio climático,Contaminación
+Expert_012,Tema 1,Cambio climático,Regulación climática
+Expert_012,Tema 1,Cambio climático,Sustentabilidad
+Expert_012,Tema 1,Ciclos biogeoquímicos,Conciencia ambiental
+Expert_012,Tema 1,Ciclos biogeoquímicos,Contaminación
+Expert_012,Tema 1,Ciclos biogeoquímicos,Regulación climática
+Expert_012,Tema 1,Ciclos biogeoquímicos,Sustentabilidad
+Expert_012,Tema 1,Conciencia ambiental,Contaminación
+Expert_012,Tema 1,Conciencia ambiental,Regulación climática
+Expert_012,Tema 1,Conciencia ambiental,Sustentabilidad
+Expert_012,Tema 1,Contaminación,Regulación climática
+Expert_012,Tema 1,Contaminación,Sustentabilidad
+Expert_012,Tema 1,Regulación climática,Sustentabilidad
+Expert_012,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_012,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_012,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_012,Tema 2,Bienestar humano,Servicios ecosistemicos
+Expert_012,Tema 2,Bienestar humano,Valor cultural
+Expert_012,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_012,Tema 3,Biodiversidad,Conservación
+Expert_012,Tema 3,Biodiversidad,Especies clave
+Expert_012,Tema 3,Biodiversidad,Evolución
+Expert_012,Tema 3,Biodiversidad,Regulación de la biodiversidad global
+Expert_012,Tema 3,Conservación,Especies clave
+Expert_012,Tema 3,Conservación,Evolución
+Expert_012,Tema 3,Conservación,Regulación de la biodiversidad global
+Expert_012,Tema 3,Especies clave,Evolución
+Expert_012,Tema 3,Especies clave,Regulación de la biodiversidad global
+Expert_012,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_012,Tema 4,Ciencias marinas,Dinámica costera
+Expert_012,Tema 4,Ciencias marinas,Geografia
+Expert_012,Tema 4,Ciencias marinas,Oceanografía física
+Expert_012,Tema 4,Dinámica costera,Geografia
+Expert_012,Tema 4,Dinámica costera,Oceanografía física
+Expert_012,Tema 4,Geografia,Oceanografía física
+Expert_013,Tema 1,Biodiversidad,Especies clave
+Expert_013,Tema 1,Biodiversidad,Evolución
+Expert_013,Tema 1,Biodiversidad,Geografia
+Expert_013,Tema 1,Especies clave,Evolución
+Expert_013,Tema 1,Especies clave,Geografia
+Expert_013,Tema 1,Evolución,Geografia
+Expert_013,Tema 2,Ciclos biogeoquímicos,Ciencias marinas
+Expert_013,Tema 2,Ciclos biogeoquímicos,Dinámica costera
+Expert_013,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_013,Tema 2,Ciencias marinas,Dinámica costera
+Expert_013,Tema 2,Ciencias marinas,Oceanografía física
+Expert_013,Tema 2,Dinámica costera,Oceanografía física
+Expert_013,Tema 3,Aspectos socio-económicos,Bienestar humano
+Expert_013,Tema 3,Aspectos socio-económicos,Valor cultural
+Expert_013,Tema 3,Bienestar humano,Valor cultural
+Expert_013,Tema 4,Regulación climática,Regulación de la biodiversidad global
+Expert_013,Tema 4,Regulación climática,Servicios ecosistemicos
+Expert_013,Tema 4,Regulación climática,Sustentabilidad
+Expert_013,Tema 4,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_013,Tema 4,Regulación de la biodiversidad global,Sustentabilidad
+Expert_013,Tema 4,Servicios ecosistemicos,Sustentabilidad
+Expert_013,Tema 5,Amenazas humanas,Cambio climático
+Expert_013,Tema 5,Amenazas humanas,Conciencia ambiental
+Expert_013,Tema 5,Amenazas humanas,Conservación
+Expert_013,Tema 5,Amenazas humanas,Contaminación
+Expert_013,Tema 5,Cambio climático,Conciencia ambiental
+Expert_013,Tema 5,Cambio climático,Conservación
+Expert_013,Tema 5,Cambio climático,Contaminación
+Expert_013,Tema 5,Conciencia ambiental,Conservación
+Expert_013,Tema 5,Conciencia ambiental,Contaminación
+Expert_013,Tema 5,Conservación,Contaminación
+Expert_014,Tema 1,Cambio climático,Ciclos biogeoquímicos
+Expert_014,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_014,Tema 2,Aspectos socio-económicos,Conciencia ambiental
+Expert_014,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_014,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_014,Tema 2,Bienestar humano,Conciencia ambiental
+Expert_014,Tema 2,Bienestar humano,Sustentabilidad
+Expert_014,Tema 2,Bienestar humano,Valor cultural
+Expert_014,Tema 2,Conciencia ambiental,Sustentabilidad
+Expert_014,Tema 2,Conciencia ambiental,Valor cultural
+Expert_014,Tema 2,Sustentabilidad,Valor cultural
+Expert_014,Tema 3,Amenazas humanas,Contaminación
+Expert_014,Tema 4,Biodiversidad,Conservación
+Expert_014,Tema 4,Biodiversidad,Especies clave
+Expert_014,Tema 4,Conservación,Especies clave
+Expert_014,Tema 5,Dinámica costera,Regulación climática
+Expert_014,Tema 5,Dinámica costera,Regulación de la biodiversidad global
+Expert_014,Tema 5,Dinámica costera,Servicios ecosistemicos
+Expert_014,Tema 5,Regulación climática,Regulación de la biodiversidad global
+Expert_014,Tema 5,Regulación climática,Servicios ecosistemicos
+Expert_014,Tema 5,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_015,Tema 1,Biodiversidad,Ciclos biogeoquímicos
+Expert_015,Tema 1,Biodiversidad,Ciencias marinas
+Expert_015,Tema 1,Biodiversidad,Dinámica costera
+Expert_015,Tema 1,Biodiversidad,Especies clave
+Expert_015,Tema 1,Biodiversidad,Evolución
+Expert_015,Tema 1,Biodiversidad,Geografia
+Expert_015,Tema 1,Biodiversidad,Oceanografía física
+Expert_015,Tema 1,Biodiversidad,Regulación climática
+Expert_015,Tema 1,Biodiversidad,Regulación de la biodiversidad global
+Expert_015,Tema 1,Ciclos biogeoquímicos,Ciencias marinas
+Expert_015,Tema 1,Ciclos biogeoquímicos,Dinámica costera
+Expert_015,Tema 1,Ciclos biogeoquímicos,Especies clave
+Expert_015,Tema 1,Ciclos biogeoquímicos,Evolución
+Expert_015,Tema 1,Ciclos biogeoquímicos,Geografia
+Expert_015,Tema 1,Ciclos biogeoquímicos,Oceanografía física
+Expert_015,Tema 1,Ciclos biogeoquímicos,Regulación climática
+Expert_015,Tema 1,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_015,Tema 1,Ciencias marinas,Dinámica costera
+Expert_015,Tema 1,Ciencias marinas,Especies clave
+Expert_015,Tema 1,Ciencias marinas,Evolución
+Expert_015,Tema 1,Ciencias marinas,Geografia
+Expert_015,Tema 1,Ciencias marinas,Oceanografía física
+Expert_015,Tema 1,Ciencias marinas,Regulación climática
+Expert_015,Tema 1,Ciencias marinas,Regulación de la biodiversidad global
+Expert_015,Tema 1,Dinámica costera,Especies clave
+Expert_015,Tema 1,Dinámica costera,Evolución
+Expert_015,Tema 1,Dinámica costera,Geografia
+Expert_015,Tema 1,Dinámica costera,Oceanografía física
+Expert_015,Tema 1,Dinámica costera,Regulación climática
+Expert_015,Tema 1,Dinámica costera,Regulación de la biodiversidad global
+Expert_015,Tema 1,Especies clave,Evolución
+Expert_015,Tema 1,Especies clave,Geografia
+Expert_015,Tema 1,Especies clave,Oceanografía física
+Expert_015,Tema 1,Especies clave,Regulación climática
+Expert_015,Tema 1,Especies clave,Regulación de la biodiversidad global
+Expert_015,Tema 1,Evolución,Geografia
+Expert_015,Tema 1,Evolución,Oceanografía física
+Expert_015,Tema 1,Evolución,Regulación climática
+Expert_015,Tema 1,Evolución,Regulación de la biodiversidad global
+Expert_015,Tema 1,Geografia,Oceanografía física
+Expert_015,Tema 1,Geografia,Regulación climática
+Expert_015,Tema 1,Geografia,Regulación de la biodiversidad global
+Expert_015,Tema 1,Oceanografía física,Regulación climática
+Expert_015,Tema 1,Oceanografía física,Regulación de la biodiversidad global
+Expert_015,Tema 1,Regulación climática,Regulación de la biodiversidad global
+Expert_015,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_015,Tema 2,Aspectos socio-económicos,Conservación
+Expert_015,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_015,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_015,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_015,Tema 2,Bienestar humano,Conservación
+Expert_015,Tema 2,Bienestar humano,Servicios ecosistemicos
+Expert_015,Tema 2,Bienestar humano,Sustentabilidad
+Expert_015,Tema 2,Bienestar humano,Valor cultural
+Expert_015,Tema 2,Conservación,Servicios ecosistemicos
+Expert_015,Tema 2,Conservación,Sustentabilidad
+Expert_015,Tema 2,Conservación,Valor cultural
+Expert_015,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_015,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_015,Tema 2,Sustentabilidad,Valor cultural
+Expert_015,Tema 3,Amenazas humanas,Cambio climático
+Expert_015,Tema 3,Amenazas humanas,Conciencia ambiental
+Expert_015,Tema 3,Cambio climático,Conciencia ambiental
+Expert_015,X,NA,NA
+Expert_016,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_016,Tema 1,Amenazas humanas,Bienestar humano
+Expert_016,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_016,Tema 1,Amenazas humanas,Valor cultural
+Expert_016,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_016,Tema 1,Aspectos socio-económicos,Conciencia ambiental
+Expert_016,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_016,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_016,Tema 1,Bienestar humano,Valor cultural
+Expert_016,Tema 1,Conciencia ambiental,Valor cultural
+Expert_016,Tema 2,Biodiversidad,Cambio climático
+Expert_016,Tema 2,Biodiversidad,Sustentabilidad
+Expert_016,Tema 2,Cambio climático,Sustentabilidad
+Expert_016,Tema 3,Conservación,Contaminación
+Expert_016,Tema 3,Conservación,Especies clave
+Expert_016,Tema 3,Contaminación,Especies clave
+Expert_016,Tema 4,Ciclos biogeoquímicos,Ciencias marinas
+Expert_016,Tema 4,Ciclos biogeoquímicos,Dinámica costera
+Expert_016,Tema 4,Ciclos biogeoquímicos,Evolución
+Expert_016,Tema 4,Ciclos biogeoquímicos,Geografia
+Expert_016,Tema 4,Ciclos biogeoquímicos,Oceanografía física
+Expert_016,Tema 4,Ciclos biogeoquímicos,Servicios ecosistemicos
+Expert_016,Tema 4,Ciencias marinas,Dinámica costera
+Expert_016,Tema 4,Ciencias marinas,Evolución
+Expert_016,Tema 4,Ciencias marinas,Geografia
+Expert_016,Tema 4,Ciencias marinas,Oceanografía física
+Expert_016,Tema 4,Ciencias marinas,Servicios ecosistemicos
+Expert_016,Tema 4,Dinámica costera,Evolución
+Expert_016,Tema 4,Dinámica costera,Geografia
+Expert_016,Tema 4,Dinámica costera,Oceanografía física
+Expert_016,Tema 4,Dinámica costera,Servicios ecosistemicos
+Expert_016,Tema 4,Evolución,Geografia
+Expert_016,Tema 4,Evolución,Oceanografía física
+Expert_016,Tema 4,Evolución,Servicios ecosistemicos
+Expert_016,Tema 4,Geografia,Oceanografía física
+Expert_016,Tema 4,Geografia,Servicios ecosistemicos
+Expert_016,Tema 4,Oceanografía física,Servicios ecosistemicos
+Expert_016,Tema 5,Regulación climática,Regulación de la biodiversidad global
+Expert_017,-,NA,NA
+Expert_017,-,NA,NA
+Expert_017,-,NA,NA
+Expert_017,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_017,Tema 1,Amenazas humanas,Bienestar humano
+Expert_017,Tema 1,Amenazas humanas,Biodiversidad
+Expert_017,Tema 1,Amenazas humanas,Cambio climático
+Expert_017,Tema 1,Amenazas humanas,Ciencias marinas
+Expert_017,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_017,Tema 1,Amenazas humanas,Conservación
+Expert_017,Tema 1,Amenazas humanas,Contaminación
+Expert_017,Tema 1,Amenazas humanas,Dinámica costera
+Expert_017,Tema 1,Amenazas humanas,Servicios ecosistemicos
+Expert_017,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_017,Tema 1,Amenazas humanas,Valor cultural
+Expert_017,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_017,Tema 1,Aspectos socio-económicos,Biodiversidad
+Expert_017,Tema 1,Aspectos socio-económicos,Cambio climático
+Expert_017,Tema 1,Aspectos socio-económicos,Ciencias marinas
+Expert_017,Tema 1,Aspectos socio-económicos,Conciencia ambiental
+Expert_017,Tema 1,Aspectos socio-económicos,Conservación
+Expert_017,Tema 1,Aspectos socio-económicos,Contaminación
+Expert_017,Tema 1,Aspectos socio-económicos,Dinámica costera
+Expert_017,Tema 1,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_017,Tema 1,Aspectos socio-económicos,Sustentabilidad
+Expert_017,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_017,Tema 1,Bienestar humano,Biodiversidad
+Expert_017,Tema 1,Bienestar humano,Cambio climático
+Expert_017,Tema 1,Bienestar humano,Ciencias marinas
+Expert_017,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_017,Tema 1,Bienestar humano,Conservación
+Expert_017,Tema 1,Bienestar humano,Contaminación
+Expert_017,Tema 1,Bienestar humano,Dinámica costera
+Expert_017,Tema 1,Bienestar humano,Servicios ecosistemicos
+Expert_017,Tema 1,Bienestar humano,Sustentabilidad
+Expert_017,Tema 1,Bienestar humano,Valor cultural
+Expert_017,Tema 1,Biodiversidad,Cambio climático
+Expert_017,Tema 1,Biodiversidad,Ciencias marinas
+Expert_017,Tema 1,Biodiversidad,Conciencia ambiental
+Expert_017,Tema 1,Biodiversidad,Conservación
+Expert_017,Tema 1,Biodiversidad,Contaminación
+Expert_017,Tema 1,Biodiversidad,Dinámica costera
+Expert_017,Tema 1,Biodiversidad,Servicios ecosistemicos
+Expert_017,Tema 1,Biodiversidad,Sustentabilidad
+Expert_017,Tema 1,Biodiversidad,Valor cultural
+Expert_017,Tema 1,Cambio climático,Ciencias marinas
+Expert_017,Tema 1,Cambio climático,Conciencia ambiental
+Expert_017,Tema 1,Cambio climático,Conservación
+Expert_017,Tema 1,Cambio climático,Contaminación
+Expert_017,Tema 1,Cambio climático,Dinámica costera
+Expert_017,Tema 1,Cambio climático,Servicios ecosistemicos
+Expert_017,Tema 1,Cambio climático,Sustentabilidad
+Expert_017,Tema 1,Cambio climático,Valor cultural
+Expert_017,Tema 1,Ciencias marinas,Conciencia ambiental
+Expert_017,Tema 1,Ciencias marinas,Conservación
+Expert_017,Tema 1,Ciencias marinas,Contaminación
+Expert_017,Tema 1,Ciencias marinas,Dinámica costera
+Expert_017,Tema 1,Ciencias marinas,Servicios ecosistemicos
+Expert_017,Tema 1,Ciencias marinas,Sustentabilidad
+Expert_017,Tema 1,Ciencias marinas,Valor cultural
+Expert_017,Tema 1,Conciencia ambiental,Conservación
+Expert_017,Tema 1,Conciencia ambiental,Contaminación
+Expert_017,Tema 1,Conciencia ambiental,Dinámica costera
+Expert_017,Tema 1,Conciencia ambiental,Servicios ecosistemicos
+Expert_017,Tema 1,Conciencia ambiental,Sustentabilidad
+Expert_017,Tema 1,Conciencia ambiental,Valor cultural
+Expert_017,Tema 1,Conservación,Contaminación
+Expert_017,Tema 1,Conservación,Dinámica costera
+Expert_017,Tema 1,Conservación,Servicios ecosistemicos
+Expert_017,Tema 1,Conservación,Sustentabilidad
+Expert_017,Tema 1,Conservación,Valor cultural
+Expert_017,Tema 1,Contaminación,Dinámica costera
+Expert_017,Tema 1,Contaminación,Servicios ecosistemicos
+Expert_017,Tema 1,Contaminación,Sustentabilidad
+Expert_017,Tema 1,Contaminación,Valor cultural
+Expert_017,Tema 1,Dinámica costera,Servicios ecosistemicos
+Expert_017,Tema 1,Dinámica costera,Sustentabilidad
+Expert_017,Tema 1,Dinámica costera,Valor cultural
+Expert_017,Tema 1,Servicios ecosistemicos,Sustentabilidad
+Expert_017,Tema 1,Servicios ecosistemicos,Valor cultural
+Expert_017,Tema 1,Sustentabilidad,Valor cultural
+Expert_017,Tema 2,Ciclos biogeoquímicos,Especies clave
+Expert_017,Tema 2,Ciclos biogeoquímicos,Evolución
+Expert_017,Tema 2,Ciclos biogeoquímicos,Geografia
+Expert_017,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_017,Tema 2,Ciclos biogeoquímicos,Regulación climática
+Expert_017,Tema 2,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_017,Tema 2,Especies clave,Evolución
+Expert_017,Tema 2,Especies clave,Geografia
+Expert_017,Tema 2,Especies clave,Oceanografía física
+Expert_017,Tema 2,Especies clave,Regulación climática
+Expert_017,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_017,Tema 2,Evolución,Geografia
+Expert_017,Tema 2,Evolución,Oceanografía física
+Expert_017,Tema 2,Evolución,Regulación climática
+Expert_017,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_017,Tema 2,Geografia,Oceanografía física
+Expert_017,Tema 2,Geografia,Regulación climática
+Expert_017,Tema 2,Geografia,Regulación de la biodiversidad global
+Expert_017,Tema 2,Oceanografía física,Regulación climática
+Expert_017,Tema 2,Oceanografía física,Regulación de la biodiversidad global
+Expert_017,Tema 2,Regulación climática,Regulación de la biodiversidad global
+Expert_018,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_018,Tema 1,Amenazas humanas,Bienestar humano
+Expert_018,Tema 1,Amenazas humanas,Servicios ecosistemicos
+Expert_018,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_018,Tema 1,Amenazas humanas,Valor cultural
+Expert_018,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_018,Tema 1,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_018,Tema 1,Aspectos socio-económicos,Sustentabilidad
+Expert_018,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_018,Tema 1,Bienestar humano,Servicios ecosistemicos
+Expert_018,Tema 1,Bienestar humano,Sustentabilidad
+Expert_018,Tema 1,Bienestar humano,Valor cultural
+Expert_018,Tema 1,Servicios ecosistemicos,Sustentabilidad
+Expert_018,Tema 1,Servicios ecosistemicos,Valor cultural
+Expert_018,Tema 1,Sustentabilidad,Valor cultural
+Expert_018,Tema 2,Biodiversidad,Ciencias marinas
+Expert_018,Tema 2,Biodiversidad,Dinámica costera
+Expert_018,Tema 2,Biodiversidad,Especies clave
+Expert_018,Tema 2,Biodiversidad,Oceanografía física
+Expert_018,Tema 2,Ciencias marinas,Dinámica costera
+Expert_018,Tema 2,Ciencias marinas,Especies clave
+Expert_018,Tema 2,Ciencias marinas,Oceanografía física
+Expert_018,Tema 2,Dinámica costera,Especies clave
+Expert_018,Tema 2,Dinámica costera,Oceanografía física
+Expert_018,Tema 2,Especies clave,Oceanografía física
+Expert_018,Tema 3,Cambio climático,Ciclos biogeoquímicos
+Expert_018,Tema 3,Cambio climático,Regulación climática
+Expert_018,Tema 3,Cambio climático,Regulación de la biodiversidad global
+Expert_018,Tema 3,Ciclos biogeoquímicos,Regulación climática
+Expert_018,Tema 3,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_018,Tema 3,Regulación climática,Regulación de la biodiversidad global
+Expert_018,Tema 4,Conservación,Contaminación
+Expert_019,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_019,Tema 1,Amenazas humanas,Bienestar humano
+Expert_019,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_019,Tema 1,Amenazas humanas,Conservación
+Expert_019,Tema 1,Amenazas humanas,Contaminación
+Expert_019,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_019,Tema 1,Amenazas humanas,Valor cultural
+Expert_019,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_019,Tema 1,Aspectos socio-económicos,Conciencia ambiental
+Expert_019,Tema 1,Aspectos socio-económicos,Conservación
+Expert_019,Tema 1,Aspectos socio-económicos,Contaminación
+Expert_019,Tema 1,Aspectos socio-económicos,Sustentabilidad
+Expert_019,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_019,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_019,Tema 1,Bienestar humano,Conservación
+Expert_019,Tema 1,Bienestar humano,Contaminación
+Expert_019,Tema 1,Bienestar humano,Sustentabilidad
+Expert_019,Tema 1,Bienestar humano,Valor cultural
+Expert_019,Tema 1,Conciencia ambiental,Conservación
+Expert_019,Tema 1,Conciencia ambiental,Contaminación
+Expert_019,Tema 1,Conciencia ambiental,Sustentabilidad
+Expert_019,Tema 1,Conciencia ambiental,Valor cultural
+Expert_019,Tema 1,Conservación,Contaminación
+Expert_019,Tema 1,Conservación,Sustentabilidad
+Expert_019,Tema 1,Conservación,Valor cultural
+Expert_019,Tema 1,Contaminación,Sustentabilidad
+Expert_019,Tema 1,Contaminación,Valor cultural
+Expert_019,Tema 1,Sustentabilidad,Valor cultural
+Expert_019,Tema 2,Cambio climático,Ciclos biogeoquímicos
+Expert_019,Tema 2,Cambio climático,Geografia
+Expert_019,Tema 2,Cambio climático,Oceanografía física
+Expert_019,Tema 2,Cambio climático,Regulación climática
+Expert_019,Tema 2,Ciclos biogeoquímicos,Geografia
+Expert_019,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_019,Tema 2,Ciclos biogeoquímicos,Regulación climática
+Expert_019,Tema 2,Geografia,Oceanografía física
+Expert_019,Tema 2,Geografia,Regulación climática
+Expert_019,Tema 2,Oceanografía física,Regulación climática
+Expert_019,Tema 3,Biodiversidad,Ciencias marinas
+Expert_019,Tema 3,Biodiversidad,Dinámica costera
+Expert_019,Tema 3,Biodiversidad,Especies clave
+Expert_019,Tema 3,Biodiversidad,Evolución
+Expert_019,Tema 3,Biodiversidad,Regulación de la biodiversidad global
+Expert_019,Tema 3,Biodiversidad,Servicios ecosistemicos
+Expert_019,Tema 3,Ciencias marinas,Dinámica costera
+Expert_019,Tema 3,Ciencias marinas,Especies clave
+Expert_019,Tema 3,Ciencias marinas,Evolución
+Expert_019,Tema 3,Ciencias marinas,Regulación de la biodiversidad global
+Expert_019,Tema 3,Ciencias marinas,Servicios ecosistemicos
+Expert_019,Tema 3,Dinámica costera,Especies clave
+Expert_019,Tema 3,Dinámica costera,Evolución
+Expert_019,Tema 3,Dinámica costera,Regulación de la biodiversidad global
+Expert_019,Tema 3,Dinámica costera,Servicios ecosistemicos
+Expert_019,Tema 3,Especies clave,Evolución
+Expert_019,Tema 3,Especies clave,Regulación de la biodiversidad global
+Expert_019,Tema 3,Especies clave,Servicios ecosistemicos
+Expert_019,Tema 3,Evolución,Regulación de la biodiversidad global
+Expert_019,Tema 3,Evolución,Servicios ecosistemicos
+Expert_019,Tema 3,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_020,Tema 1,Biodiversidad,Ciencias marinas
+Expert_020,Tema 1,Biodiversidad,Especies clave
+Expert_020,Tema 1,Ciencias marinas,Especies clave
+Expert_020,Tema 2,Conciencia ambiental,Regulación de la biodiversidad global
+Expert_020,Tema 2,Conciencia ambiental,Valor cultural
+Expert_020,Tema 2,Regulación de la biodiversidad global,Valor cultural
+Expert_020,Tema 5,Cambio climático,Conservación
+Expert_021,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_021,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_021,Tema 1,Bienestar humano,Valor cultural
+Expert_021,Tema 2,Biodiversidad,Ciencias marinas
+Expert_021,Tema 2,Biodiversidad,Especies clave
+Expert_021,Tema 2,Biodiversidad,Evolución
+Expert_021,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_021,Tema 2,Ciencias marinas,Especies clave
+Expert_021,Tema 2,Ciencias marinas,Evolución
+Expert_021,Tema 2,Ciencias marinas,Regulación de la biodiversidad global
+Expert_021,Tema 2,Especies clave,Evolución
+Expert_021,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_021,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_021,Tema 3,Conciencia ambiental,Conservación
+Expert_021,Tema 3,Conciencia ambiental,Servicios ecosistemicos
+Expert_021,Tema 3,Conciencia ambiental,Sustentabilidad
+Expert_021,Tema 3,Conservación,Servicios ecosistemicos
+Expert_021,Tema 3,Conservación,Sustentabilidad
+Expert_021,Tema 3,Servicios ecosistemicos,Sustentabilidad
+Expert_021,Tema 4,Amenazas humanas,Cambio climático
+Expert_021,Tema 4,Amenazas humanas,Contaminación
+Expert_021,Tema 4,Cambio climático,Contaminación
+Expert_021,Tema 5,Ciclos biogeoquímicos,Dinámica costera
+Expert_021,Tema 5,Ciclos biogeoquímicos,Geografia
+Expert_021,Tema 5,Ciclos biogeoquímicos,Oceanografía física
+Expert_021,Tema 5,Ciclos biogeoquímicos,Regulación climática
+Expert_021,Tema 5,Dinámica costera,Geografia
+Expert_021,Tema 5,Dinámica costera,Oceanografía física
+Expert_021,Tema 5,Dinámica costera,Regulación climática
+Expert_021,Tema 5,Geografia,Oceanografía física
+Expert_021,Tema 5,Geografia,Regulación climática
+Expert_021,Tema 5,Oceanografía física,Regulación climática
+Expert_022,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_022,Tema 1,Amenazas humanas,Bienestar humano
+Expert_022,Tema 1,Amenazas humanas,Cambio climático
+Expert_022,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_022,Tema 1,Amenazas humanas,Dinámica costera
+Expert_022,Tema 1,Amenazas humanas,Geografia
+Expert_022,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_022,Tema 1,Amenazas humanas,Valor cultural
+Expert_022,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_022,Tema 1,Aspectos socio-económicos,Cambio climático
+Expert_022,Tema 1,Aspectos socio-económicos,Conciencia ambiental
+Expert_022,Tema 1,Aspectos socio-económicos,Dinámica costera
+Expert_022,Tema 1,Aspectos socio-económicos,Geografia
+Expert_022,Tema 1,Aspectos socio-económicos,Sustentabilidad
+Expert_022,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_022,Tema 1,Bienestar humano,Cambio climático
+Expert_022,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_022,Tema 1,Bienestar humano,Dinámica costera
+Expert_022,Tema 1,Bienestar humano,Geografia
+Expert_022,Tema 1,Bienestar humano,Sustentabilidad
+Expert_022,Tema 1,Bienestar humano,Valor cultural
+Expert_022,Tema 1,Cambio climático,Conciencia ambiental
+Expert_022,Tema 1,Cambio climático,Dinámica costera
+Expert_022,Tema 1,Cambio climático,Geografia
+Expert_022,Tema 1,Cambio climático,Sustentabilidad
+Expert_022,Tema 1,Cambio climático,Valor cultural
+Expert_022,Tema 1,Conciencia ambiental,Dinámica costera
+Expert_022,Tema 1,Conciencia ambiental,Geografia
+Expert_022,Tema 1,Conciencia ambiental,Sustentabilidad
+Expert_022,Tema 1,Conciencia ambiental,Valor cultural
+Expert_022,Tema 1,Dinámica costera,Geografia
+Expert_022,Tema 1,Dinámica costera,Sustentabilidad
+Expert_022,Tema 1,Dinámica costera,Valor cultural
+Expert_022,Tema 1,Geografia,Sustentabilidad
+Expert_022,Tema 1,Geografia,Valor cultural
+Expert_022,Tema 1,Sustentabilidad,Valor cultural
+Expert_022,Tema 2,Biodiversidad,Ciclos biogeoquímicos
+Expert_022,Tema 2,Biodiversidad,Especies clave
+Expert_022,Tema 2,Biodiversidad,Evolución
+Expert_022,Tema 2,Biodiversidad,Oceanografía física
+Expert_022,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_022,Tema 2,Biodiversidad,Servicios ecosistemicos
+Expert_022,Tema 2,Ciclos biogeoquímicos,Especies clave
+Expert_022,Tema 2,Ciclos biogeoquímicos,Evolución
+Expert_022,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_022,Tema 2,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_022,Tema 2,Ciclos biogeoquímicos,Servicios ecosistemicos
+Expert_022,Tema 2,Especies clave,Evolución
+Expert_022,Tema 2,Especies clave,Oceanografía física
+Expert_022,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_022,Tema 2,Especies clave,Servicios ecosistemicos
+Expert_022,Tema 2,Evolución,Oceanografía física
+Expert_022,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_022,Tema 2,Evolución,Servicios ecosistemicos
+Expert_022,Tema 2,Oceanografía física,Regulación de la biodiversidad global
+Expert_022,Tema 2,Oceanografía física,Servicios ecosistemicos
+Expert_022,Tema 2,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_022,Tema 3,Ciencias marinas,Conservación
+Expert_022,Tema 3,Ciencias marinas,Contaminación
+Expert_022,Tema 3,Ciencias marinas,Regulación climática
+Expert_022,Tema 3,Conservación,Contaminación
+Expert_022,Tema 3,Conservación,Regulación climática
+Expert_022,Tema 3,Contaminación,Regulación climática
+Expert_023,Tema 1,Amenazas humanas,Cambio climático
+Expert_023,Tema 1,Amenazas humanas,Contaminación
+Expert_023,Tema 1,Cambio climático,Contaminación
+Expert_023,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_023,Tema 2,Aspectos socio-económicos,Regulación climática
+Expert_023,Tema 2,Aspectos socio-económicos,Regulación de la biodiversidad global
+Expert_023,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_023,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_023,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_023,Tema 2,Bienestar humano,Regulación climática
+Expert_023,Tema 2,Bienestar humano,Regulación de la biodiversidad global
+Expert_023,Tema 2,Bienestar humano,Servicios ecosistemicos
+Expert_023,Tema 2,Bienestar humano,Sustentabilidad
+Expert_023,Tema 2,Bienestar humano,Valor cultural
+Expert_023,Tema 2,Regulación climática,Regulación de la biodiversidad global
+Expert_023,Tema 2,Regulación climática,Servicios ecosistemicos
+Expert_023,Tema 2,Regulación climática,Sustentabilidad
+Expert_023,Tema 2,Regulación climática,Valor cultural
+Expert_023,Tema 2,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_023,Tema 2,Regulación de la biodiversidad global,Sustentabilidad
+Expert_023,Tema 2,Regulación de la biodiversidad global,Valor cultural
+Expert_023,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_023,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_023,Tema 2,Sustentabilidad,Valor cultural
+Expert_023,Tema 3,Biodiversidad,Conservación
+Expert_023,Tema 3,Biodiversidad,Especies clave
+Expert_023,Tema 3,Conservación,Especies clave
+Expert_023,Tema 4,Ciclos biogeoquímicos,Ciencias marinas
+Expert_023,Tema 4,Ciclos biogeoquímicos,Conciencia ambiental
+Expert_023,Tema 4,Ciclos biogeoquímicos,Dinámica costera
+Expert_023,Tema 4,Ciclos biogeoquímicos,Evolución
+Expert_023,Tema 4,Ciclos biogeoquímicos,Geografia
+Expert_023,Tema 4,Ciclos biogeoquímicos,Oceanografía física
+Expert_023,Tema 4,Ciencias marinas,Conciencia ambiental
+Expert_023,Tema 4,Ciencias marinas,Dinámica costera
+Expert_023,Tema 4,Ciencias marinas,Evolución
+Expert_023,Tema 4,Ciencias marinas,Geografia
+Expert_023,Tema 4,Ciencias marinas,Oceanografía física
+Expert_023,Tema 4,Conciencia ambiental,Dinámica costera
+Expert_023,Tema 4,Conciencia ambiental,Evolución
+Expert_023,Tema 4,Conciencia ambiental,Geografia
+Expert_023,Tema 4,Conciencia ambiental,Oceanografía física
+Expert_023,Tema 4,Dinámica costera,Evolución
+Expert_023,Tema 4,Dinámica costera,Geografia
+Expert_023,Tema 4,Dinámica costera,Oceanografía física
+Expert_023,Tema 4,Evolución,Geografia
+Expert_023,Tema 4,Evolución,Oceanografía física
+Expert_023,Tema 4,Geografia,Oceanografía física
+Expert_024,-,NA,NA
+Expert_024,Tema 1,Amenazas humanas,Cambio climático
+Expert_024,Tema 1,Amenazas humanas,Contaminación
+Expert_024,Tema 1,Amenazas humanas,Regulación climática
+Expert_024,Tema 1,Cambio climático,Contaminación
+Expert_024,Tema 1,Cambio climático,Regulación climática
+Expert_024,Tema 1,Contaminación,Regulación climática
+Expert_024,Tema 2,Aspectos socio-económicos,Bienestar humano
+Expert_024,Tema 2,Aspectos socio-económicos,Conciencia ambiental
+Expert_024,Tema 2,Aspectos socio-económicos,Conservación
+Expert_024,Tema 2,Aspectos socio-económicos,Especies clave
+Expert_024,Tema 2,Aspectos socio-económicos,Regulación de la biodiversidad global
+Expert_024,Tema 2,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_024,Tema 2,Aspectos socio-económicos,Sustentabilidad
+Expert_024,Tema 2,Aspectos socio-económicos,Valor cultural
+Expert_024,Tema 2,Bienestar humano,Conciencia ambiental
+Expert_024,Tema 2,Bienestar humano,Conservación
+Expert_024,Tema 2,Bienestar humano,Especies clave
+Expert_024,Tema 2,Bienestar humano,Regulación de la biodiversidad global
+Expert_024,Tema 2,Bienestar humano,Servicios ecosistemicos
+Expert_024,Tema 2,Bienestar humano,Sustentabilidad
+Expert_024,Tema 2,Bienestar humano,Valor cultural
+Expert_024,Tema 2,Conciencia ambiental,Conservación
+Expert_024,Tema 2,Conciencia ambiental,Especies clave
+Expert_024,Tema 2,Conciencia ambiental,Regulación de la biodiversidad global
+Expert_024,Tema 2,Conciencia ambiental,Servicios ecosistemicos
+Expert_024,Tema 2,Conciencia ambiental,Sustentabilidad
+Expert_024,Tema 2,Conciencia ambiental,Valor cultural
+Expert_024,Tema 2,Conservación,Especies clave
+Expert_024,Tema 2,Conservación,Regulación de la biodiversidad global
+Expert_024,Tema 2,Conservación,Servicios ecosistemicos
+Expert_024,Tema 2,Conservación,Sustentabilidad
+Expert_024,Tema 2,Conservación,Valor cultural
+Expert_024,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_024,Tema 2,Especies clave,Servicios ecosistemicos
+Expert_024,Tema 2,Especies clave,Sustentabilidad
+Expert_024,Tema 2,Especies clave,Valor cultural
+Expert_024,Tema 2,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_024,Tema 2,Regulación de la biodiversidad global,Sustentabilidad
+Expert_024,Tema 2,Regulación de la biodiversidad global,Valor cultural
+Expert_024,Tema 2,Servicios ecosistemicos,Sustentabilidad
+Expert_024,Tema 2,Servicios ecosistemicos,Valor cultural
+Expert_024,Tema 2,Sustentabilidad,Valor cultural
+Expert_024,Tema 3,Biodiversidad,Ciclos biogeoquímicos
+Expert_024,Tema 3,Biodiversidad,Ciencias marinas
+Expert_024,Tema 3,Biodiversidad,Dinámica costera
+Expert_024,Tema 3,Biodiversidad,Evolución
+Expert_024,Tema 3,Biodiversidad,Geografia
+Expert_024,Tema 3,Biodiversidad,Oceanografía física
+Expert_024,Tema 3,Ciclos biogeoquímicos,Ciencias marinas
+Expert_024,Tema 3,Ciclos biogeoquímicos,Dinámica costera
+Expert_024,Tema 3,Ciclos biogeoquímicos,Evolución
+Expert_024,Tema 3,Ciclos biogeoquímicos,Geografia
+Expert_024,Tema 3,Ciclos biogeoquímicos,Oceanografía física
+Expert_024,Tema 3,Ciencias marinas,Dinámica costera
+Expert_024,Tema 3,Ciencias marinas,Evolución
+Expert_024,Tema 3,Ciencias marinas,Geografia
+Expert_024,Tema 3,Ciencias marinas,Oceanografía física
+Expert_024,Tema 3,Dinámica costera,Evolución
+Expert_024,Tema 3,Dinámica costera,Geografia
+Expert_024,Tema 3,Dinámica costera,Oceanografía física
+Expert_024,Tema 3,Evolución,Geografia
+Expert_024,Tema 3,Evolución,Oceanografía física
+Expert_024,Tema 3,Geografia,Oceanografía física
+Expert_025,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_025,Tema 1,Amenazas humanas,Bienestar humano
+Expert_025,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_025,Tema 1,Amenazas humanas,Conservación
+Expert_025,Tema 1,Amenazas humanas,Servicios ecosistemicos
+Expert_025,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_025,Tema 1,Amenazas humanas,Valor cultural
+Expert_025,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_025,Tema 1,Aspectos socio-económicos,Conciencia ambiental
+Expert_025,Tema 1,Aspectos socio-económicos,Conservación
+Expert_025,Tema 1,Aspectos socio-económicos,Servicios ecosistemicos
+Expert_025,Tema 1,Aspectos socio-económicos,Sustentabilidad
+Expert_025,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_025,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_025,Tema 1,Bienestar humano,Conservación
+Expert_025,Tema 1,Bienestar humano,Servicios ecosistemicos
+Expert_025,Tema 1,Bienestar humano,Sustentabilidad
+Expert_025,Tema 1,Bienestar humano,Valor cultural
+Expert_025,Tema 1,Conciencia ambiental,Conservación
+Expert_025,Tema 1,Conciencia ambiental,Servicios ecosistemicos
+Expert_025,Tema 1,Conciencia ambiental,Sustentabilidad
+Expert_025,Tema 1,Conciencia ambiental,Valor cultural
+Expert_025,Tema 1,Conservación,Servicios ecosistemicos
+Expert_025,Tema 1,Conservación,Sustentabilidad
+Expert_025,Tema 1,Conservación,Valor cultural
+Expert_025,Tema 1,Servicios ecosistemicos,Sustentabilidad
+Expert_025,Tema 1,Servicios ecosistemicos,Valor cultural
+Expert_025,Tema 1,Sustentabilidad,Valor cultural
+Expert_025,Tema 2,Biodiversidad,Cambio climático
+Expert_025,Tema 2,Biodiversidad,Ciclos biogeoquímicos
+Expert_025,Tema 2,Biodiversidad,Ciencias marinas
+Expert_025,Tema 2,Biodiversidad,Especies clave
+Expert_025,Tema 2,Biodiversidad,Evolución
+Expert_025,Tema 2,Biodiversidad,Regulación de la biodiversidad global
+Expert_025,Tema 2,Cambio climático,Ciclos biogeoquímicos
+Expert_025,Tema 2,Cambio climático,Ciencias marinas
+Expert_025,Tema 2,Cambio climático,Especies clave
+Expert_025,Tema 2,Cambio climático,Evolución
+Expert_025,Tema 2,Cambio climático,Regulación de la biodiversidad global
+Expert_025,Tema 2,Ciclos biogeoquímicos,Ciencias marinas
+Expert_025,Tema 2,Ciclos biogeoquímicos,Especies clave
+Expert_025,Tema 2,Ciclos biogeoquímicos,Evolución
+Expert_025,Tema 2,Ciclos biogeoquímicos,Regulación de la biodiversidad global
+Expert_025,Tema 2,Ciencias marinas,Especies clave
+Expert_025,Tema 2,Ciencias marinas,Evolución
+Expert_025,Tema 2,Ciencias marinas,Regulación de la biodiversidad global
+Expert_025,Tema 2,Especies clave,Evolución
+Expert_025,Tema 2,Especies clave,Regulación de la biodiversidad global
+Expert_025,Tema 2,Evolución,Regulación de la biodiversidad global
+Expert_025,Tema 4,Dinámica costera,Geografia
+Expert_025,Tema 4,Dinámica costera,Oceanografía física
+Expert_025,Tema 4,Dinámica costera,Regulación climática
+Expert_025,Tema 4,Geografia,Oceanografía física
+Expert_025,Tema 4,Geografia,Regulación climática
+Expert_025,Tema 4,Oceanografía física,Regulación climática
+Expert_025,no procede,NA,NA
+Expert_026,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_026,Tema 1,Amenazas humanas,Bienestar humano
+Expert_026,Tema 1,Amenazas humanas,Conciencia ambiental
+Expert_026,Tema 1,Amenazas humanas,Contaminación
+Expert_026,Tema 1,Amenazas humanas,Sustentabilidad
+Expert_026,Tema 1,Amenazas humanas,Valor cultural
+Expert_026,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_026,Tema 1,Aspectos socio-económicos,Conciencia ambiental
+Expert_026,Tema 1,Aspectos socio-económicos,Contaminación
+Expert_026,Tema 1,Aspectos socio-económicos,Sustentabilidad
+Expert_026,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_026,Tema 1,Bienestar humano,Conciencia ambiental
+Expert_026,Tema 1,Bienestar humano,Contaminación
+Expert_026,Tema 1,Bienestar humano,Sustentabilidad
+Expert_026,Tema 1,Bienestar humano,Valor cultural
+Expert_026,Tema 1,Conciencia ambiental,Contaminación
+Expert_026,Tema 1,Conciencia ambiental,Sustentabilidad
+Expert_026,Tema 1,Conciencia ambiental,Valor cultural
+Expert_026,Tema 1,Contaminación,Sustentabilidad
+Expert_026,Tema 1,Contaminación,Valor cultural
+Expert_026,Tema 1,Sustentabilidad,Valor cultural
+Expert_026,Tema 2,Biodiversidad,Cambio climático
+Expert_026,Tema 3,Ciclos biogeoquímicos,Ciencias marinas
+Expert_026,Tema 3,Ciclos biogeoquímicos,Dinámica costera
+Expert_026,Tema 3,Ciclos biogeoquímicos,Oceanografía física
+Expert_026,Tema 3,Ciclos biogeoquímicos,Regulación climática
+Expert_026,Tema 3,Ciencias marinas,Dinámica costera
+Expert_026,Tema 3,Ciencias marinas,Oceanografía física
+Expert_026,Tema 3,Ciencias marinas,Regulación climática
+Expert_026,Tema 3,Dinámica costera,Oceanografía física
+Expert_026,Tema 3,Dinámica costera,Regulación climática
+Expert_026,Tema 3,Oceanografía física,Regulación climática
+Expert_026,Tema 4,Conservación,Especies clave
+Expert_026,Tema 4,Conservación,Evolución
+Expert_026,Tema 4,Conservación,Geografia
+Expert_026,Tema 4,Conservación,Regulación de la biodiversidad global
+Expert_026,Tema 4,Conservación,Servicios ecosistemicos
+Expert_026,Tema 4,Especies clave,Evolución
+Expert_026,Tema 4,Especies clave,Geografia
+Expert_026,Tema 4,Especies clave,Regulación de la biodiversidad global
+Expert_026,Tema 4,Especies clave,Servicios ecosistemicos
+Expert_026,Tema 4,Evolución,Geografia
+Expert_026,Tema 4,Evolución,Regulación de la biodiversidad global
+Expert_026,Tema 4,Evolución,Servicios ecosistemicos
+Expert_026,Tema 4,Geografia,Regulación de la biodiversidad global
+Expert_026,Tema 4,Geografia,Servicios ecosistemicos
+Expert_026,Tema 4,Regulación de la biodiversidad global,Servicios ecosistemicos
+Expert_027,Tema 1,Amenazas humanas,Aspectos socio-económicos
+Expert_027,Tema 1,Amenazas humanas,Bienestar humano
+Expert_027,Tema 1,Amenazas humanas,Dinámica costera
+Expert_027,Tema 1,Amenazas humanas,Valor cultural
+Expert_027,Tema 1,Aspectos socio-económicos,Bienestar humano
+Expert_027,Tema 1,Aspectos socio-económicos,Dinámica costera
+Expert_027,Tema 1,Aspectos socio-económicos,Valor cultural
+Expert_027,Tema 1,Bienestar humano,Dinámica costera
+Expert_027,Tema 1,Bienestar humano,Valor cultural
+Expert_027,Tema 1,Dinámica costera,Valor cultural
+Expert_027,Tema 2,Biodiversidad,Cambio climático
+Expert_027,Tema 2,Biodiversidad,Ciclos biogeoquímicos
+Expert_027,Tema 2,Biodiversidad,Ciencias marinas
+Expert_027,Tema 2,Biodiversidad,Especies clave
+Expert_027,Tema 2,Biodiversidad,Evolución
+Expert_027,Tema 2,Biodiversidad,Geografia
+Expert_027,Tema 2,Biodiversidad,Oceanografía física
+Expert_027,Tema 2,Cambio climático,Ciclos biogeoquímicos
+Expert_027,Tema 2,Cambio climático,Ciencias marinas
+Expert_027,Tema 2,Cambio climático,Especies clave
+Expert_027,Tema 2,Cambio climático,Evolución
+Expert_027,Tema 2,Cambio climático,Geografia
+Expert_027,Tema 2,Cambio climático,Oceanografía física
+Expert_027,Tema 2,Ciclos biogeoquímicos,Ciencias marinas
+Expert_027,Tema 2,Ciclos biogeoquímicos,Especies clave
+Expert_027,Tema 2,Ciclos biogeoquímicos,Evolución
+Expert_027,Tema 2,Ciclos biogeoquímicos,Geografia
+Expert_027,Tema 2,Ciclos biogeoquímicos,Oceanografía física
+Expert_027,Tema 2,Ciencias marinas,Especies clave
+Expert_027,Tema 2,Ciencias marinas,Evolución
+Expert_027,Tema 2,Ciencias marinas,Geografia
+Expert_027,Tema 2,Ciencias marinas,Oceanografía física
+Expert_027,Tema 2,Especies clave,Evolución
+Expert_027,Tema 2,Especies clave,Geografia
+Expert_027,Tema 2,Especies clave,Oceanografía física
+Expert_027,Tema 2,Evolución,Geografia
+Expert_027,Tema 2,Evolución,Oceanografía física
+Expert_027,Tema 2,Geografia,Oceanografía física
+Expert_027,Tema 3,Conciencia ambiental,Conservación
+Expert_027,Tema 3,Conciencia ambiental,Contaminación
+Expert_027,Tema 3,Conciencia ambiental,Servicios ecosistemicos
+Expert_027,Tema 3,Conciencia ambiental,Sustentabilidad
+Expert_027,Tema 3,Conservación,Contaminación
+Expert_027,Tema 3,Conservación,Servicios ecosistemicos
+Expert_027,Tema 3,Conservación,Sustentabilidad
+Expert_027,Tema 3,Contaminación,Servicios ecosistemicos
+Expert_027,Tema 3,Contaminación,Sustentabilidad
+Expert_027,Tema 3,Servicios ecosistemicos,Sustentabilidad
