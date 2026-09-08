@@ -4,8 +4,7 @@ An R analysis of 27 responses to an exercise grouping topics related to oceans, 
 
 ## Public Data and Privacy
 
-The public data have been anonymized using neutral IDs, `Expert_001`–`Expert_027`, that remain consistent across files. Direct identifiers, personal attributes, and open-ended comments have been removed. Response patterns and proposed group titles are retained: technically, this is pseudonymization and does not guarantee protection against reidentification using external information. See `ANONYMIZATION_NOTES.md`.
-
+The public data have been anonymized using neutral IDs, `Expert_001`–`Expert_027`, that remain consistent across files. Direct identifiers, personal attributes, and open-ended comments have been removed. Response patterns and proposed group titles are retained.
 ## Repository Structure
 
 ```text
